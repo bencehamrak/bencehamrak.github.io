@@ -1,6 +1,6 @@
 title: "Researcher profile"
 description: "Welcome to my GitHub Pages site."
-theme: jekyll-theme-chirpy  # This is one of the default themes provided by GitHub
+theme: minima  # This is one of the default themes provided by GitHub
 
 # Optional customization
 author: "Your Name"
