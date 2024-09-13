@@ -1,3 +1,8 @@
 title: "Researcher profile"
 description: "Welcome to my GitHub Pages site."
 theme: jekyll-theme-chirpy  # This is one of the default themes provided by GitHub
+
+# Optional customization
+author: "Your Name"
+email: "your-email@example.com"
+twitter_username: "your-twitter-handle"
