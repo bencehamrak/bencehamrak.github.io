@@ -1,9 +1,5 @@
 ## Welcome!
 
-<p align="justify">
-I am a doctoral candidate at Central European University, Vienna studying political behavior and public opinion. I use survey experiments, quasi-experimental methods, and quantitative description of digital data.My research examines the influence of salient events on group identities. For example, I study the compound effect of elections on in- and out-party feelings, or the effect of football games on out-group animosity. My other projects look at the limits of public oversight in complex or controversial issues such as drug regulation or political scandals. My work has been published, for example, in the <em>British Journal of Political Science</em> and the <em>European Journal of Political Economy</em>. I am a serious hobby road cyclist. My (other) academic hobby is evolutionary biology and animal behavior.
-</p>
-
 ## Recent Publications
 
 - **Hamrak, B.**, Simonovits, G., Rusnak, A., & Szucs, F. (2024). *Why Politicians Won't Apologize: Communication Effects in the Aftermath of Sex Scandals*. British Journal of Political Science. [https://doi.org/10.1017/S0007123424000292](https://doi.org/10.1017/S0007123424000292)
