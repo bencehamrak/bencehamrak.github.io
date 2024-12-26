@@ -13,8 +13,9 @@ header {
   }
 }
 
-.site-title {
-  font-family: 'Arial Black', Arial, sans-serif; /* Replace 'Arial' with your preferred font */
+h1 {
+  font-family: 'Arial Black', Arial, sans-serif; /* Use Arial Black as the primary font */
   text-transform: uppercase; /* Capitalize the title */
-  text-align: center; /* Optional: Center-align the title */
+  text-align: center; /* Center-align the title */
+  margin-top: 20px; /* Optional: Add space above the title */
 }
