@@ -19,3 +19,9 @@ h1 {
   text-align: center; /* Center-align the title */
   margin-top: 0px; /* Optional: Add space above the title */
 }
+
+.container {
+  max-width: 1200px; /* Adjust this value as needed */
+  margin: 0 auto; /* Center the container horizontally */
+  padding: 0 20px; /* Add some padding for better spacing */
+}
