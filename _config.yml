@@ -12,7 +12,7 @@ description: >
   📝 <a href=""> Cirruculum vitae </a>
 theme: jekyll-theme-minimal
 sass: 
-  custom_css: /assets/style.scss
+  custom_css: /assets/css/style.scss
 show_downloads: false
 github:
   is_project_page: false
