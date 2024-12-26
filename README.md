@@ -14,15 +14,15 @@ I am a doctoral candidate at Central European University in Vienna. I study poli
 
 ## Current research
 
-- Door to door campaigns in an electoral autocracy: Evidence from Hungary (with Gabor Simonovits, Ferenc Szucs) <em>Conditionally accepted</em> [ABSTRACT]
+- Door to door campaigns in an electoral autocracy: Evidence from Hungary (with Gabor Simonovits, Ferenc Szucs) <em>Conditionally accepted</em> <span style="color: grey; font-size: 0.8em;">[ABSTRACT]</span>
   
-- Status quo bias drives preferences about drug policy (with Gabor Simonovits) [ABSTRACT]
+- Status quo bias drives preferences about drug policy (with Gabor Simonovits) <span style="color: grey; font-size: 0.8em;">[ABSTRACT]</span>
 
-- Post-election shifts in affective polarization <em>Under review</em> [ABSTRACT]
+- Post-election shifts in affective polarization <em>Under review</em> <span style="color: grey; font-size: 0.8em;">[ABSTRACT]</span>
 
-- Can football reduce out-party hate? Evidence from 142 games played by the English national team [ABSTRACT]
+- Can football reduce out-party hate? Evidence from 142 games played by the English national team <span style="color: grey; font-size: 0.8em;">[ABSTRACT]</span>
 
-- Descriptive representation and local-level political engagement: Evidence from breaking the highest glass ceiling in Slovakia (with Daniel Kovarek) [ABSTRACT]
+- Descriptive representation and local-level political engagement: Evidence from breaking the highest glass ceiling in Slovakia (with Daniel Kovarek) <span style="color: grey; font-size: 0.8em;">[ABSTRACT]</span>
 
 
 <!--
