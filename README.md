@@ -1,5 +1,7 @@
 ## Welcome!
 
+On this website, you will find some details about me & my research here. Please get in touch!
+
 ## Recent Publications
 
 - **Hamrak, B.**, Simonovits, G., Rusnak, A., & Szucs, F. (2024). *Why Politicians Won't Apologize: Communication Effects in the Aftermath of Sex Scandals*. British Journal of Political Science. [https://doi.org/10.1017/S0007123424000292](https://doi.org/10.1017/S0007123424000292)
