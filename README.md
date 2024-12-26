@@ -24,6 +24,7 @@ I am a doctoral candidate at Central European University in Vienna. I study poli
 
 - Descriptive representation and local-level political engagement: Evidence from breaking the highest glass ceiling in Slovakia (with Daniel Kovarek) [ABSTRACT]
 
+
 <!--
 **bencehamrak/bencehamrak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
