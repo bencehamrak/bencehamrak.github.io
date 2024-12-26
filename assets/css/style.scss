@@ -1,0 +1,13 @@
+---
+---
+@import "{{ site.theme }}";
+  img {
+    border-radius: 50%;
+  }
+  p {
+    text-align: center;
+  }
+  p.view {
+    text-align: left;
+  }
+}
