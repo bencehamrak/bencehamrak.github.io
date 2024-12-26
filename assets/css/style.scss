@@ -13,6 +13,11 @@ header {
   }
 }
 
+body {
+  background-color: #f8f9fa; /* Light off-white background */
+  color: #000; /* Ensure text remains black or readable on off-white */
+}
+
 h1 {
   font-family: 'Arial Black', Arial, sans-serif; /* Use Arial Black as the primary font */
   text-transform: uppercase; /* Capitalize the title */
