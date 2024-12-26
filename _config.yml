@@ -1,5 +1,5 @@
 title: Bence Hamrak 
-logo: https://media.licdn.com/dms/image/v2/D4D03AQHix7r26U55xg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1710517946274?e=1740614400&v=beta&t=X3sDSuFyMChEBO99o8e4DrLQs6Fiu-H12xSEG2JK6vs
+logo: 
 description: > 
   ✉️ <a href="mailto:hamrak_bence@phd.ceu.edu"> hamrak_bence@phd.ceu.edu </a> 
   <br>
@@ -10,7 +10,6 @@ description: >
   💼 <a href="https://www.linkedin.com/in/bence-hamrak-b2010a133/"> LinkedIn </a>
   <br>
   📝 <a href=""> Cirruculum vitae </a>
-  
 theme: jekyll-theme-minimal
 show_downloads: false
 github:
