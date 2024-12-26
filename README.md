@@ -1,4 +1,4 @@
-Welcome to my website!
+## Welcome to my website!
 
 I am a doctoral candidate at Central European University, Vienna studying political behavior and public opinion. I use survey experiments, quasi-experimental methods, and quantitative description of digital data.
 
