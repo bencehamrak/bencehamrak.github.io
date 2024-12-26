@@ -22,7 +22,7 @@ I am a doctoral candidate at Central European University in Vienna. I study poli
 
 - Can football reduce out-party hate? Evidence from 142 games played by the English national team [ABSTRACT]
 
-- Descriptive representation and local-level political engagement: evidence from breaking the highest glass ceiling in Slovakia (with Daniel Kovarek) [ABSTRACT]
+- Descriptive representation and local-level political engagement: Evidence from breaking the highest glass ceiling in Slovakia (with Daniel Kovarek) [ABSTRACT]
 
 <!--
 **bencehamrak/bencehamrak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
