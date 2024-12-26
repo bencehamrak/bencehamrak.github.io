@@ -1,13 +1,14 @@
+---
+---
 @import "{{ site.theme }}";
-
-img {
-  border-radius: 50%; /* Makes the image circular */
-}
-
-p {
-  text-align: center; /* Centers the text inside paragraph tags */
-}
-
-p.view {
-  text-align: left; /* Aligns text to the left for paragraphs with the 'view' class */
+header {
+  img {
+    border-radius: 50%;
+  }
+  p {
+    text-align: center;
+  }
+  p.view {
+    text-align: left;
+  }
 }
