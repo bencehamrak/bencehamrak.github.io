@@ -1,5 +1,5 @@
-theme: jekyll-theme-minimal
 title: Bence Hamrak 
-description: gg <a href="https://rpubs.com/jacoblundeen"> <img src="https://img.shields.io/badge/RPubs-blue?logo=R"> </a>
 logo: https://dsps.ceu.edu/sites/pds.ceu.hu/files/styles/panopoly_image_full/public/profilephd/portrait/1460/profile.jpg?itok=GsDjZKNG
+description: gg <a href="https://rpubs.com/jacoblundeen"> <img src="https://img.shields.io/badge/RPubs-blue?logo=R"> </a>
+theme: jekyll-theme-minimal
 show_downloads: false
