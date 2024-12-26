@@ -13,6 +13,7 @@ description: >
   
 
 theme: jekyll-theme-minimal
+classes: wide
 show_downloads: false
 github:
   is_project_page: false
