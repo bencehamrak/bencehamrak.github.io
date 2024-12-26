@@ -1,8 +1,5 @@
 theme: jekyll-theme-minimal
 title: Bence Hamrak 
-description: >
-<a href="https://bsky.app/profile/benhmrk.bsky.social"> <img src="https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn"> </a> 
-  <br><br>
-<a href="{{ https://bsky.app/profile/benhmrk.bsky.social }}">@benhmrk.bsky.social</a>
+description: ff
 logo: https://dsps.ceu.edu/sites/pds.ceu.hu/files/styles/panopoly_image_full/public/profilephd/portrait/1460/profile.jpg?itok=GsDjZKNG
 show_downloads: false
