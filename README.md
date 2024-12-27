@@ -4,7 +4,7 @@ You will find some details here about me & my research. Please get in touch!
 
 ## About me
 <p style="text-align:justify;">
-I am a doctoral candidate at Central European University in Vienna. I use surveys, experiments & some tools for causal inference to study political behavior and public opinion. I am interested in the fluctuations of political group identification. Currently, I am studying the compound effect of election outcomes on in- and out-party feelings, and the effect of football games on out-group animosity. My other projects look at the limits of citizen accountability on complex or controversial issues such as drug regulation or political scandals. My work has been published in the <em>British Journal of Political Science</em> and the <em>European Journal of Political Economy</em>. I am a serious hobby cyclist. My academic hobby is evolutionary biology and animal behavior.
+I am a doctoral candidate at Central European University in Vienna. I use surveys, experiments & some tools for causal inference to study political behavior and public opinion. I am interested in the fluctuations of political group identification. Currently, I am studying the compound effect of election outcomes on in- and out-party feelings, and the effect of football games on out-group animosity. My other projects look at the limits of citizen accountability on complex or controversial issues such as drug regulation or political scandals. My work has been published in the <em>British Journal of Political Science</em> and the <em>European Journal of Political Economy</em>. I am a serious hobby cyclist. My academic hobby is reading about animal behavior.
  </p>
 ## Recent publications
 
