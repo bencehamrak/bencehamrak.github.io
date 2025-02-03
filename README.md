@@ -9,13 +9,13 @@ I am a doctoral candidate at Central European University in Vienna. I deal with 
  
 ## Recent publications
 
+- Simonovits, G., Szucs, F., **Hamrak, B.**, (2025). *Door to door campaigns in an electoral autocracy: Evidence from Hungary* Journal of Politics. <em>Conditionally accepted</em> <span style="color: grey; font-size: 0.8em;">[ABSTRACT](https://drive.google.com/file/d/1B_6bpnUp-s1sqcCgBEtd4h9qJYFajHqM/view?usp=share_link)</span>
+
 - **Hamrak, B.**, Simonovits, G., Rusnak, A., & Szucs, F. (2024). *Why Politicians Won't Apologize: Communication Effects in the Aftermath of Sex Scandals*. British Journal of Political Science. [https://doi.org/10.1017/S0007123424000292](https://doi.org/10.1017/S0007123424000292)
 
 - **Hamrak, B.**, Simonovits, G. & Szucs, F. (2024). *Equilibrium communication in political scandals*. European Journal of Political Economy. [https://doi.org/10.1016/j.ejpoleco.2024.102580](https://doi.org/10.1016/j.ejpoleco.2024.102580)
 
 ## Current research
-
-- Door to door campaigns in an electoral autocracy: Evidence from Hungary (with Gabor Simonovits, Ferenc Szucs) <em>Conditionally accepted</em> <span style="color: grey; font-size: 0.8em;">[ABSTRACT](https://drive.google.com/file/d/1B_6bpnUp-s1sqcCgBEtd4h9qJYFajHqM/view?usp=share_link)</span>
   
 - Status quo bias drives preferences about drug policy (with Gabor Simonovits) 
 
