@@ -25,7 +25,7 @@ I am a doctoral candidate at Central European University in Vienna. I deal with 
 
 - Antisemitic dog whistle or simple partisan cueing? Assessing the effect of the Soros campaign in Hungary. <em>Under review</em> (with Erin Jenne and Levente Littvay)
 
- ### Citizen accountability and representation:
+### Citizen accountability and representation:
   
 - Status quo bias and preferences for drug regulation: Evidence from a novel experimental approach (with Gabor Simonovits)
 
