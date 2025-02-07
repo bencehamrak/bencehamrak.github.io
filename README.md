@@ -4,7 +4,7 @@ You will find some details here about my research. Please get in touch!
 
 ## About me
 <p style="text-align:justify;">
-I am a doctoral candidate at Central European University in Vienna. I deal with questions in political psychology using experiments & other tools for causal inference. My dissertation investigates various aspects of political group behavior: the compound emotional and policy opinion effects of winning and losing elections, or the temporary effect of other group identity salience on partisan behavior such as affective polarization. My other projects look at the limits of citizen accountability on complex or controversial issues such as drug regulation or political scandals. I am a serious hobby cyclist. My academic hobby is reading about animal behavior.
+I am a doctoral candidate at Central European University in Vienna. I deal with questions in political psychology using experiments & other tools for causal inference. My dissertation investigates various aspects of political identities: the compound emotional and policy opinion effects of winning and losing elections, or the temporary effect of other group identity salience on partisan behavior such as affective polarization. My other projects look at the limits of citizen accountability on complex or controversial issues such as drug regulation or political scandals. I am a serious hobby cyclist. My academic hobby is reading about animal behavior.
  </p>
  
 ## Recent publications
@@ -17,14 +17,19 @@ I am a doctoral candidate at Central European University in Vienna. I deal with 
 
 ## Current research
 
-- Post-election shifts in affective polarization <em>Revise & resubmit</em> 
+### Party identity:
+
+- Post-election shifts in affective polarization. <em>Revise & resubmit</em>
+
+- Can common identities reduce out-party animosity? Quais-experimental evidence from football games
+
+- Antisemitic dog whistle or simple partisan cueing? Assessing the effect of the Soros campaign in Hungary. <em>Under review</em> (with Erin Jenne and Levente Littvay)
+
+ ### Citizen accountability and representation:
   
 - Status quo bias and preferences for drug regulation: Evidence from a novel experimental approach (with Gabor Simonovits)
 
 - Descriptive representation and local-level political engagement: Evidence from breaking the highest glass ceiling in Slovakia (with Daniel Kovarek)
-
-- Can common identities reduce out-party animosity? Quais-experimental evidence from football games  
-
 
 
 <!--
