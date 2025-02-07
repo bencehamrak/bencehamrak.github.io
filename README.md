@@ -16,14 +16,15 @@ I am a doctoral candidate at Central European University in Vienna. I deal with 
 - **Hamrak, B.**, Simonovits, G. & Szucs, F. (2024). *Equilibrium communication in political scandals*. European Journal of Political Economy. [https://doi.org/10.1016/j.ejpoleco.2024.102580](https://doi.org/10.1016/j.ejpoleco.2024.102580)
 
 ## Current research
+
+- Post-election shifts in affective polarization <em>Revise & resubmit</em> 
   
-- Status quo bias drives preferences about drug policy (with Gabor Simonovits) 
-
-- Post-election shifts in affective polarization <em>Under review</em> 
-
-- Can football reduce out-party hate? Evidence from 142 games played by the English national team 
+- Status quo bias and preferences for drug regulation: Evidence from a novel experimental approach (with Gabor Simonovits)
 
 - Descriptive representation and local-level political engagement: Evidence from breaking the highest glass ceiling in Slovakia (with Daniel Kovarek)
+
+- Can common identities reduce out-party animosity? Quais-experimental evidence from football games  
+
 
 
 <!--
