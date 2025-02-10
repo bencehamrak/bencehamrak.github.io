@@ -23,7 +23,7 @@ I am a doctoral candidate at Central European University in Vienna. I deal with 
 
 - Can common identities reduce out-party animosity? Quais-experimental evidence from football games
 
-- Antisemitic dog whistle or simple partisan cueing? Assessing the effect of the Soros campaign in Hungary. <em>Under review</em> (with Erin Jenne and Levente Littvay)
+- Antisemitic dog whistle or simple partisan cueing? Assessing the effect of the Soros campaign in Hungary. <em>Revise & resubmit</em> (with Erin Jenne and Levente Littvay)
 
 ### Citizen accountability and representation:
   
