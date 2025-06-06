@@ -7,7 +7,7 @@ You will find some details here about my research. Please get in touch!
 I am a doctoral candidate at Central European University in Vienna. I deal with questions in political behavior and psychology using experiments & other tools for causal inference. My dissertation investigates the changes in the temporal salience of partisan group identity and their effect on out-group hostility and affective polarization. My other projects look at the limits of citizen accountability on complex or controversial issues such as drug regulation or political scandals. I am a serious hobby cyclist and I like to read about animal behavior.
  </p>
  
-## Recent publications
+## Publications
 
 - **Hamrak, B.**, Simonovits, G., Rusnak, A., & Szucs, F. (2024). *Why Politicians Won't Apologize: Communication Effects in the Aftermath of Sex Scandals*. British Journal of Political Science. [https://doi.org/10.1017/S0007123424000292](https://doi.org/10.1017/S0007123424000292)
 
@@ -19,7 +19,15 @@ I am a doctoral candidate at Central European University in Vienna. I deal with 
 
 ## Current research
 
-### Party identity:
+### Citizen accountability and representation:
+  
+- Status quo bias and preferences for drug legalization: Evidence from a novel experimental approach (with Gabor Simonovits) <em>Revise & resubmit</em>
+
+- From President to Pavement: Does Female Leadership Spur Women’s Local Political Engagement? (with Daniel Kovarek)
+
+- Evaluating Democracy: Lay Perceptions vs. Experts Assessments in Hungary (with Alexander Bor)
+
+### Partisan identity:
 
 - Post-election shifts in affective polarization: The role of out-group threat and in-group status. <em>Revise & resubmit</em>
 
@@ -28,12 +36,6 @@ I am a doctoral candidate at Central European University in Vienna. I deal with 
 - Antisemitic dog whistle or simple partisan cueing? Assessing the effect of the Soros campaign in Hungary. <em>Revise & resubmit</em> (with Erin Jenne and Levente Littvay)
 
 - In-party favoritism or out-party threat? Testing the mechanisms behind citizens' differential support for democratic norm violation in opposition and government (with Kata Moravecz, Mariyana Angelova, Levente Littvay, Jennifer McCoy, and Gabor Simonovits)
-
-### Citizen accountability and representation:
-  
-- Status quo bias and preferences for drug regulation: Evidence from a novel experimental approach (with Gabor Simonovits)
-
-- Descriptive representation and local-level political engagement: Quasi-Experimental evidence from breaking the highest glass ceiling in Slovakia (with Daniel Kovarek)
 
 
 <!--
