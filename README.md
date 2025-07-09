@@ -17,6 +17,8 @@ I am a doctoral candidate at Central European University in Vienna. I deal with 
 
 - **Hamrak, B.**, Simonovits, G. & Szucs, F. (2024). *Equilibrium communication in political scandals*. European Journal of Political Economy. [https://doi.org/10.1016/j.ejpoleco.2024.102580](https://doi.org/10.1016/j.ejpoleco.2024.102580)
 
+- **Hamrak, B.** (forthcoming). *How Winning and Losing Impact Partisan Identity and Affective Polarization*. Electoral Studies <em>Conditionally accepted</em>
+
 ## Current research
 
 ### Citizen accountability and representation:
@@ -26,14 +28,14 @@ I am a doctoral candidate at Central European University in Vienna. I deal with 
 - From President to Pavement: Does Female Leadership Spur Women’s Local Political Engagement? (with Daniel Kovarek)
 
 - Evaluating Democracy: Lay Perceptions vs. Experts Assessments in Hungary (with Alexander Bor)
+  
+- How Identity Fragmentation Complicates Voter-Party Congruence (with Jozef Michal Mintal, Felix Butzlaff, Robert Vancel, Kamila Borsekova) <em>Revise & resubmit</em>
 
 ### Partisan identity:
 
-- Post-election shifts in affective polarization: The role of out-group threat and in-group status. <em>Revise & resubmit</em>
-
 - Can common identities reduce out-party animosity? Quasi-experimental evidence from football games
 
-- Antisemitic dog whistle or simple partisan cueing? Assessing the effect of the Soros campaign in Hungary. <em>Revise & resubmit</em> (with Erin Jenne and Levente Littvay)
+- Antisemitic dog whistle or simple partisan cueing? Assessing the effect of the Soros campaign in Hungary <em>Revise & resubmit</em> (with Erin Jenne, Levente Littvay, Gabor Simonovits)
 
 - In-party favoritism or out-party threat? Testing the mechanisms behind citizens' differential support for democratic norm violation in opposition and government (with Kata Moravecz, Mariyana Angelova, Levente Littvay, Jennifer McCoy, and Gabor Simonovits)
 
