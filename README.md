@@ -4,7 +4,7 @@ You will find some details here about my research. Please get in touch!
 
 ## About me
 <p style="text-align:justify;">
-I am a doctoral candidate at Central European University in Vienna. I deal with questions in political behavior and psychology using experiments & other tools for causal inference. My dissertation investigates the changes in the temporal salience of partisan group identity and their effect on out-group hostility and affective polarization. My other projects look at the limits of citizen accountability on complex or controversial issues such as drug regulation or political scandals. I am a serious hobby cyclist and I like to read about animal behavior.
+I am a doctoral candidate at Central European University in Vienna. I deal with questions in political behavior and psychology using experiments & other tools for causal inference. My dissertation investigates the salience of partisan group identity and their effect on out-group hostility and affective polarization. My other projects look at the limits of citizen accountability on complex or controversial issues such as drug regulation or political scandals. I am a serious hobby cyclist.
  </p>
  
 ## Publications
@@ -17,7 +17,7 @@ I am a doctoral candidate at Central European University in Vienna. I deal with 
 
 - **Hamrak, B.**, Simonovits, G. & Szucs, F. (2024). *Equilibrium communication in political scandals*. European Journal of Political Economy. [https://doi.org/10.1016/j.ejpoleco.2024.102580](https://doi.org/10.1016/j.ejpoleco.2024.102580)
 
-- **Hamrak, B.** (forthcoming). *How Winning and Losing Impact Partisan Identity and Affective Polarization*. Electoral Studies. <em>Conditionally accepted</em>
+- **Hamrak, B.** (forthcoming). *Identity After the Ballot: How Winning and Losing Impact Partisan Identity and Affective Polarization*. Electoral Studies. <em>Conditionally accepted</em>
 
 ## Current research
 
@@ -35,7 +35,7 @@ I am a doctoral candidate at Central European University in Vienna. I deal with 
 
 - Can common identities reduce out-party animosity? Quasi-experimental evidence from football games
 
-- Antisemitic dog whistle or simple partisan cueing? Assessing the effect of the Soros campaign in Hungary <em>Revise & resubmit</em> (with Erin Jenne, Levente Littvay, Gabor Simonovits)
+- Antisemitic dog whistle or simple partisan cueing? Assessing the effect of the Soros campaign in Hungary (with Erin Jenne, Levente Littvay, Gabor Simonovits) <em>Revise & resubmit</em> 
 
 - In-party favoritism or out-party threat? Testing the mechanisms behind citizens' differential support for democratic norm violation in opposition and government (with Kata Moravecz, Mariyana Angelova, Levente Littvay, Jennifer McCoy, and Gabor Simonovits)
 
