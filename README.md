@@ -25,7 +25,7 @@ I am a doctoral candidate at Central European University in Vienna. I deal with 
   
 - Status quo bias and preferences for drug legalization: Evidence from a novel experimental approach (with Gabor Simonovits) <em>Revise & resubmit</em>
 
-- From the Presidential Palace to the Town Pavement: Does Female Leadership Spur Women’s Local Political Engagement? (with Daniel Kovarek)
+- From Presidential Palace to Town Pavement: Does Female Leadership Spur Women’s Local Political Engagement? (with Daniel Kovarek)
 
 - Evaluating Democracy: Lay Perceptions vs. Experts Assessments in Hungary (with Alexander Bor)
   
