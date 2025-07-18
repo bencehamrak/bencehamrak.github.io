@@ -33,7 +33,7 @@ I am a doctoral candidate at Central European University in Vienna. I deal with 
 
 ### Partisan identity:
 
-- Do Everyday Common In-Group Events Reduce Affective Polarization? Evidence from English Football Games
+- Do National Football Games Reduce Out-Party Animosity? A Multiple-Event Regression Discontinuity Analysis
 
 - Antisemitic dog whistle or simple partisan cueing? Assessing the effect of the Soros campaign in Hungary (with Erin Jenne, Levente Littvay, Gabor Simonovits) <em>Revise & resubmit</em> 
 
