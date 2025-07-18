@@ -17,7 +17,7 @@ I am a doctoral candidate at Central European University in Vienna. I deal with 
 
 - **Hamrak, B.**, Simonovits, G. & Szucs, F. (2024). *Equilibrium communication in political scandals*. European Journal of Political Economy. [https://doi.org/10.1016/j.ejpoleco.2024.102580](https://doi.org/10.1016/j.ejpoleco.2024.102580)
 
-- **Hamrak, B.** (forthcoming). *Identity After the Ballot: How Winning and Losing Impact Partisan Identity and Affective Polarization*. Electoral Studies. <em>Conditionally accepted</em>
+- **Hamrak, B.** (forthcoming). *Identity After the Ballot: How Winning and Losing Impact Partisan Identity and Affective Polarization*. Electoral Studies
 
 ## Current research
 
@@ -33,7 +33,7 @@ I am a doctoral candidate at Central European University in Vienna. I deal with 
 
 ### Partisan identity:
 
-- Can common identities reduce out-party animosity? Quasi-experimental evidence from football games
+- Do Everyday Common In-Group Events Reduce Affective Polarization? Evidence from English Football Games
 
 - Antisemitic dog whistle or simple partisan cueing? Assessing the effect of the Soros campaign in Hungary (with Erin Jenne, Levente Littvay, Gabor Simonovits) <em>Revise & resubmit</em> 
 
