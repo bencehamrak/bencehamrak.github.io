@@ -4,7 +4,7 @@ You will find some details here about my research. Please get in touch!
 
 ## About me
 <p style="text-align:justify;">
-I am a doctoral candidate at Central European University in Vienna. I deal with questions in political behavior and psychology using experiments & other tools for causal inference. My dissertation investigates the salience of partisan group identity and their effect on out-group hostility and affective polarization. My other projects look at the limits of citizen accountability on complex or controversial issues such as drug regulation or political scandals. I am a serious hobby cyclist.
+I am a doctoral candidate at the Central European University in Vienna, and a researcher in the ERC Project "MULTIREP" at the University of Vienna. I deal with questions in political behavior and psychology using experiments & other tools for causal inference. My dissertation investigates the salience of partisan group identity and their effect on out-group hostility and affective polarization. My other projects look at the limits of citizen accountability on complex or controversial issues such as drug regulation or political scandals. I am a serious hobby cyclist.
  </p>
  
 ## Publications
