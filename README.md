@@ -17,7 +17,9 @@ I am a doctoral candidate at the Central European University in Vienna, and a re
 
 - **Hamrak, B.**, Simonovits, G. & Szucs, F. (2024). *Equilibrium communication in political scandals*. European Journal of Political Economy. [https://doi.org/10.1016/j.ejpoleco.2024.102580](https://doi.org/10.1016/j.ejpoleco.2024.102580)
 
-- **Hamrak, B.** (forthcoming). *Identity After the Ballot: How Winning and Losing Impact Partisan Identity and Affective Polarization*. Electoral Studies
+- **Hamrak, B.** (2025). *Identity After the Ballot: How winning and losing impact partisan identity and affective polarization*. Electoral Studies. [https://doi.org/10.1016/j.electstud.2025.102967](https://doi.org/10.1016/j.electstud.2025.102967)
+
+- **Hamrak, B.**, Jenne, E., Littvay, L., & Simonovits, G. (forthcoming). The public opinion effects of antisemitic elite cues. A survey experiment on Soros bashing in Hungary. East European Politics
 
 ## Current research
 
@@ -34,8 +36,6 @@ I am a doctoral candidate at the Central European University in Vienna, and a re
 ### Partisan identity:
 
 - Do National Football Games Reduce Out-Party Animosity? A Multiple-Event Regression Discontinuity Analysis
-
-- Antisemitic dog whistle or simple partisan cueing? Assessing the effect of the Soros campaign in Hungary (with Erin Jenne, Levente Littvay, Gabor Simonovits) <em>Revise & resubmit</em> 
 
 - In-party favoritism or out-party threat? Testing the mechanisms behind citizens' differential support for democratic norm violation in opposition and government (with Kata Moravecz, Mariyana Angelova, Levente Littvay, Jennifer McCoy, and Gabor Simonovits)
 
