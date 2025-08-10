@@ -35,7 +35,7 @@ I am a doctoral candidate at the Central European University in Vienna, and a re
 
 ### Partisan identity:
 
-- Do National Football Games Reduce Out-Party Animosity? A Multiple-Event Regression Discontinuity Analysis
+- More Than a Game? A Multi-Event Regression Discontinuity Analysis on the Effect of Football on Out-Party Animosity
 
 - In-party favoritism or out-party threat? Testing the mechanisms behind citizens' differential support for democratic norm violation in opposition and government (with Kata Moravecz, Mariyana Angelova, Levente Littvay, Jennifer McCoy, and Gabor Simonovits)
 
