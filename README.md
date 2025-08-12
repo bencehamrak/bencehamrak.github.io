@@ -15,13 +15,13 @@ I am a doctoral candidate at the Central European University in Vienna, and a re
 
 - **Hamrak, B.**, Simonovits, G. & Szucs, F. (2024). *Equilibrium communication in political scandals*. European Journal of Political Economy. [https://doi.org/10.1016/j.ejpoleco.2024.102580](https://doi.org/10.1016/j.ejpoleco.2024.102580)
  
- ### Partisan and group identities, and polarization: 
+### Partisan and group identities, and polarization
 
 - **Hamrak, B.** (2025). *Identity After the Ballot: How winning and losing impact partisan identity and affective polarization*. Electoral Studies. [https://doi.org/10.1016/j.electstud.2025.102967](https://doi.org/10.1016/j.electstud.2025.102967)
 
 - **Hamrak, B.**, Jenne, E., Littvay, L., & Simonovits, G. (*forthcoming*). *The public opinion effects of antisemitic anti-elite cues. A sequential priming experiment on the Hungarian anti-Soros propaganda*. East European Politics
 
-### Miscellaneous topics:
+### Miscellaneous topics
 
 - Simonovits, G., Szucs, F., **Hamrak, B.**, (2025). *Door to door campaigns in an electoral autocracy: Evidence from Hungary*. The Journal of Politics. [https://doi.org/10.1086/735870
 ](https://doi.org/10.1086/735870)
