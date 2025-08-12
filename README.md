@@ -19,7 +19,7 @@ I am a doctoral candidate at the Central European University in Vienna, and a re
 
 - **Hamrak, B.** (2025). *Identity After the Ballot: How winning and losing impact partisan identity and affective polarization*. Electoral Studies. [https://doi.org/10.1016/j.electstud.2025.102967](https://doi.org/10.1016/j.electstud.2025.102967)
 
-- **Hamrak, B.**, Jenne, E., Littvay, L., & Simonovits, G. (*forthcoming*). *The public opinion effects of antisemitic anti-elite cues. A sequintal priming experiment on the Hungarian anti-Soros propaganda*. East European Politics
+- **Hamrak, B.**, Jenne, E., Littvay, L., & Simonovits, G. (*forthcoming*). *The public opinion effects of antisemitic anti-elite cues. A sequential priming experiment on the Hungarian anti-Soros propaganda*. East European Politics
 
 ## Current research
 
