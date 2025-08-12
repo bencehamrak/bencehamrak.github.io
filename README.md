@@ -4,7 +4,7 @@ You will find some details here about my research. Please get in touch!
 
 ## About me
 <p style="text-align:justify;">
-I am a doctoral candidate at the Central European University in Vienna, and a researcher in the ERC Project "MULTIREP" at the University of Vienna. I deal with questions in political behavior and psychology using experiments & other tools for causal inference. My past and on-going research investigates the activation, salience and representation of political and partisan group identities, and the limits of democratic accountability by citizens in questions such as political scandals, substance regulation or quality of democracy. When out of office, I am a serious hobby cyclist, and a nature and animal enthusiast.
+I am a doctoral candidate at the Central European University in Vienna, and a researcher in the ERC Project "MULTIREP" at the University of Vienna. I deal with questions in political behavior and psychology using experiments & other tools for causal inference. My published and on-going research investigates the activation, salience and representation of political and partisan group identities, and the limits of democratic accountability by citizens in questions such as political scandals, substance regulation or quality of democracy. When out of office, I am a serious hobby cyclist, and a nature and animal enthusiast.
  </p>
  
 ## Publications
