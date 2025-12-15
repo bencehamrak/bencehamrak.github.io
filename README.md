@@ -9,28 +9,22 @@ I am a doctoral candidate at Central European University in Vienna and a researc
  
 ## Publications
 
-### Citizen accountability
-
 - **Hamrak, B.**, Simonovits, G., Rusnak, A., & Szucs, F. (2024). *Why Politicians Won't Apologize: Communication Effects in the Aftermath of Sex Scandals*. British Journal of Political Science. [https://doi.org/10.1017/S0007123424000292](https://doi.org/10.1017/S0007123424000292)
-
-- **Hamrak, B.**, Simonovits, G. & Szucs, F. (2024). *Equilibrium communication in political scandals*. European Journal of Political Economy. [https://doi.org/10.1016/j.ejpoleco.2024.102580](https://doi.org/10.1016/j.ejpoleco.2024.102580)
- 
-### Partisan and group identities, and polarization
-
-- **Hamrak, B.** (2025). *Identity After the Ballot: How winning and losing impact partisan identity and affective polarization*. Electoral Studies. [https://doi.org/10.1016/j.electstud.2025.102967](https://doi.org/10.1016/j.electstud.2025.102967)
-
-- **Hamrak, B.**, Jenne, E., Littvay, L., & Simonovits, G. (2025). *The public opinion effects of antisemitic anti-elite cues. A survey experiment on the Hungarian Soros campaign*. East European Politics. [https://doi.org/10.1080/21599165.2025.2548250](https://doi.org/10.1080/21599165.2025.2548250)
-
-### Miscellaneous topics
 
 - Simonovits, G., Szucs, F., **Hamrak, B.**, (2025). *Door to door campaigns in an electoral autocracy: Evidence from Hungary*. The Journal of Politics. [https://doi.org/10.1086/735870
 ](https://doi.org/10.1086/735870)
+
+- **Hamrak, B.** (2025). *Identity After the Ballot: How winning and losing impact partisan identity and affective polarization*. Electoral Studies. [https://doi.org/10.1016/j.electstud.2025.102967](https://doi.org/10.1016/j.electstud.2025.102967)
+
+- **Hamrak, B.**, Simonovits, G. & Szucs, F. (2024). *Equilibrium communication in political scandals*. European Journal of Political Economy. [https://doi.org/10.1016/j.ejpoleco.2024.102580](https://doi.org/10.1016/j.ejpoleco.2024.102580)
+
+- **Hamrak, B.**, Jenne, E., Littvay, L., & Simonovits, G. (2025). *The public opinion effects of antisemitic anti-elite cues. A survey experiment on the Hungarian Soros campaign*. East European Politics. [https://doi.org/10.1080/21599165.2025.2548250](https://doi.org/10.1080/21599165.2025.2548250)
 
 ## Research in-progress
 
 ### Citizen accountability and representation:
   
-- Status quo bias and preferences for drug legalization: Evidence from a novel experimental approach (with Gabor Simonovits) <em>Revise & resubmit</em>
+- Status quo bias and preferences for drug legalization: Evidence from a novel experimental approach (with Gabor Simonovits) Revise & resubmit at <em> Nature Human Behaviour </em>
 
 - From Presidential Palace to Potholes: Does Female Leadership Spur Women’s Local Political Engagement? (with Daniel Kovarek)
 
