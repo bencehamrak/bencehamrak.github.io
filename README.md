@@ -4,7 +4,7 @@ You will find some details here about my research. Please get in touch!
 
 ## About me
 <p style="text-align:justify;">
-I am a doctoral candidate at Central European University in Vienna and a research fellow at the University of Vienna. My dissertation examines how political institutions (e.g., elections) interact with group identities, such as partisanship and gender, through the lenses of affective polarization and group representation. Beyond this, I study how citizens form opinions on contentious or complex issues —like political scandals or drug regulation— and how biases constrain democratic accountability. To address these questions, I primarily use surveys, survey experiments, and causal inference methods for observational data. When out of office, I am a serious hobby cyclist, and a nature and animal enthusiast.
+I am a postdoctoral researcher at the University of Vienna. I research how political institutions and norms influence group identities, such as partisanship and gender, through the lenses of affective polarization and group representation. Beyond this, I study how citizens form opinions on contentious or complex issues —like political scandals or drug regulation— and how biases constrain democratic accountability. To address these questions, I primarily use surveys, survey experiments, and causal inference methods for observational data. When out of office, I am a serious hobby cyclist, and a nature and animal enthusiast.
  </p>
  
 ## Publications
@@ -26,7 +26,7 @@ I am a doctoral candidate at Central European University in Vienna and a researc
   
 - Status quo bias and preferences for drug legalization: Evidence from a novel experimental approach (with Gabor Simonovits) Revise & resubmit at <em> Nature Human Behaviour </em>
 
-- From Presidential Palace to Potholes: Does Female Leadership Spur Women’s Local Political Engagement? (with Daniel Kovarek)
+- From Presidential Palace to Potholes: Does Female Leadership Spur Women’s Local Political Engagement? (with Daniel Kovarek) <em>Under review</em>
 
 - Evaluating Democracy: Lay Perceptions vs. Experts Assessments in Hungary (with Alexander Bor)
   
