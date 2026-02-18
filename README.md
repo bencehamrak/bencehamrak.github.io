@@ -30,7 +30,7 @@ I am a postdoctoral researcher at the University of Vienna. I research how polit
 
 - From Presidential Palace to Potholes: Does Female Leadership Spur Women’s Local Political Engagement? (with Daniel Kovarek) <em>Under review</em>
 
-- Evaluating Democracy: Lay Perceptions vs. Experts Assessments in Hungary (with Alexander Bor)
+- Evaluating a Backsliding Democracy: Lay Perceptions vs. Experts Assessments in Hungary (with Alexander Bor)
 
 ### Partisan identity:
 
