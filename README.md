@@ -15,7 +15,7 @@ I am a postdoctoral researcher at the University of Vienna. I research how polit
 ](https://doi.org/10.1086/735870)
 
 - **Hamrak, B.** (2025). *Identity After the Ballot: How winning and losing impact partisan identity and affective polarization*. Electoral Studies. [https://doi.org/10.1016/j.electstud.2025.102967](https://doi.org/10.1016/j.electstud.2025.102967)
-- 
+  
 - Mintal, J. M., Butzlaff, F., **Hamrak, B.**, Vancel, R., Borsekova, K. (<em>Forthcoming</em>). *How Identity Fragmentation Complicates Voter-Party Congruence*. European Journal of Political Research.
 
 - **Hamrak, B.**, Simonovits, G. & Szucs, F. (2024). *Equilibrium communication in political scandals*. European Journal of Political Economy. [https://doi.org/10.1016/j.ejpoleco.2024.102580](https://doi.org/10.1016/j.ejpoleco.2024.102580)
