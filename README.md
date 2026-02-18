@@ -11,10 +11,12 @@ I am a postdoctoral researcher at the University of Vienna. I research how polit
 
 - **Hamrak, B.**, Simonovits, G., Rusnak, A., & Szucs, F. (2024). *Why Politicians Won't Apologize: Communication Effects in the Aftermath of Sex Scandals*. British Journal of Political Science. [https://doi.org/10.1017/S0007123424000292](https://doi.org/10.1017/S0007123424000292)
 
-- Simonovits, G., Szucs, F., **Hamrak, B.**, (2025). *Door to door campaigns in an electoral autocracy: Evidence from Hungary*. The Journal of Politics. [https://doi.org/10.1086/735870
+- Simonovits, G., Szucs, F., **Hamrak, B.** (2025). *Door to door campaigns in an electoral autocracy: Evidence from Hungary*. The Journal of Politics. [https://doi.org/10.1086/735870
 ](https://doi.org/10.1086/735870)
 
 - **Hamrak, B.** (2025). *Identity After the Ballot: How winning and losing impact partisan identity and affective polarization*. Electoral Studies. [https://doi.org/10.1016/j.electstud.2025.102967](https://doi.org/10.1016/j.electstud.2025.102967)
+- 
+- Mintal, J. M., Butzlaff, F., **Hamrak, B.**, Vancel, R., Borsekova, K. (<em>Forthcoming</em>). *How Identity Fragmentation Complicates Voter-Party Congruence*. European Journal of Political Research.
 
 - **Hamrak, B.**, Simonovits, G. & Szucs, F. (2024). *Equilibrium communication in political scandals*. European Journal of Political Economy. [https://doi.org/10.1016/j.ejpoleco.2024.102580](https://doi.org/10.1016/j.ejpoleco.2024.102580)
 
@@ -29,14 +31,12 @@ I am a postdoctoral researcher at the University of Vienna. I research how polit
 - From Presidential Palace to Potholes: Does Female Leadership Spur Women’s Local Political Engagement? (with Daniel Kovarek) <em>Under review</em>
 
 - Evaluating Democracy: Lay Perceptions vs. Experts Assessments in Hungary (with Alexander Bor)
-  
-- How Identity Fragmentation Complicates Voter-Party Congruence (with Jozef Michal Mintal, Felix Butzlaff, Robert Vancel, Kamila Borsekova) <em>Revise & resubmit</em>
 
 ### Partisan identity:
 
-- More Than a Game? A Multi-Event Regression Discontinuity Analysis on the Effect of Football on Out-Party Animosity
+- Football and Out-Party Animosity: Testing the Common In-Group Theory Using Everyday Real Events
 
-- In-party favoritism or out-party threat? Testing the mechanisms behind citizens' differential support for democratic norm violation in opposition and government (with Kata Moravecz, Mariyana Angelova, Levente Littvay, Jennifer McCoy, and Gabor Simonovits)
+- Partisan Favoritism or Democratic Vigilance? Testing the Mechanisms Behind Citizens' Differential Support for Democratic Norm Violation in Opposition and Government (with Kata Moravecz, Mariyana Angelova, Levente Littvay, Jennifer McCoy, and Gabor Simonovits)
 
 
 <!--
