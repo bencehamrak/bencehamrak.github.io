@@ -7,7 +7,6 @@
     <meta name="google-site-verification" content="-3pJcxaihKuFTbg9qPKNXa-sf2flVVMV5733FZdtYBc" />
     {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-    <!-- Favicon -->
     <link rel="icon" type="image/svg+xml" href="{{ "/assets/icons/favicon.svg" | relative_url }}">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
@@ -19,20 +18,23 @@
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
         {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Profile photo of {{ site.title }}" />
+          <!-- class="profile-photo" scopes the circular CSS to this image only -->
+          <img src="{{site.logo | relative_url}}" alt="Profile photo of {{ site.title }}" class="profile-photo" />
         {% endif %}
+
+        <p class="tagline">{{ site.description | default: site.github.project_tagline }}</p>
 
         <!-- Styled contact links -->
         <ul class="contact-links">
           <li>
             <a href="mailto:bence.hamrak@univie.ac.at">
-              <img src="{{ "/assets/icons/mail.svg" | relative_url }}" class="icon" alt="Email" />
+              <img src="{{ "/assets/icons/mail.svg" | relative_url }}" class="icon" width="16" height="16" alt="" />
               bence.hamrak@univie.ac.at
             </a>
           </li>
           <li>
             <a href="https://bsky.app/profile/bencehamrak.bsky.social" target="_blank" rel="noopener">
-              <img src="{{ "/assets/icons/bsky.svg" | relative_url }}" class="icon" alt="Bluesky" />
+              <img src="{{ "/assets/icons/bsky.svg" | relative_url }}" class="icon" width="16" height="16" alt="" />
               @benhmrk.bsky.social
             </a>
           </li>
@@ -47,12 +49,6 @@
         <a href="{{ "/assets/cv.pdf" | relative_url }}" class="cv-download" target="_blank">
           ↓ Download CV
         </a>
-
-        {% if site.github.is_user_page %}
-        <p class="view" style="margin-top:14px;">
-          <a href="{{ site.github.owner_url }}"><img src="https://img.shields.io/badge/GitHub-blue?logo=GitHub" alt="GitHub"></a>
-        </p>
-        {% endif %}
 
       </header>
 
@@ -71,9 +67,6 @@
       </section>
 
       <footer>
-        {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
     </div>
