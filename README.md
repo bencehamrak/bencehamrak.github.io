@@ -53,7 +53,7 @@ Mintal, J. M., Butzlaff, F., <strong>Hamrak, B.</strong>, Vancel, R., Borsekova,
 
 - *Status quo bias and preferences for drug legalization: Evidence from a novel experimental approach* (with Gabor Simonovits) <span class="badge badge-rr">R&R — Nature Human Behaviour</span>
 
-- *From Presidential Palace to Potholes: Does Female Leadership Spur Women's Local Political Engagement?* (with Daniel Kovarek) <span class="badge badge-review">Under Review</span>
+- *From Presidential Palace to Potholes: Does Female Leadership Spur Women's Local Political Engagement?* (with Daniel Kovarek) <span class="badge badge-rr">R&R</span>
 
 - *Evaluating a Backsliding Democracy: Lay Perceptions vs. Experts Assessments in Hungary* (with Alexander Bor)
 
