@@ -198,10 +198,8 @@ section ul {
 }
 
 /* ── ARTICLE button ───────────────────────────────────── */
-.btn-article {
+.btn-article, .btn-media {
   display: inline-block;
-  background: #c0392b;
-  color: #fff !important;
   font-size: 0.7em;
   font-weight: bold;
   padding: 2px 8px;
@@ -211,8 +209,21 @@ section ul {
   vertical-align: middle;
   margin-left: 6px;
   transition: background 0.15s;
+}
+
+.btn-article {
+  background: #c0392b;
+  color: #fff !important;
 
   &:hover { background: #922b21; }
+}
+
+/* ── MEDIA button ─────────────────────────────────────── */
+.btn-media {
+  background: #1a7a8a;
+  color: #fff !important;
+
+  &:hover { background: #135f6c; }
 }
 
 /* ── Collapsible abstracts ────────────────────────────── */
