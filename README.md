@@ -51,7 +51,8 @@ Mintal, J. M., Butzlaff, F., <strong>Hamrak, B.</strong>, Vancel, R., Borsekova,
 
 ### Citizen accountability and representation:
 
-- *Status quo bias and preferences for drug legalization: Evidence from a novel experimental approach* (with Gabor Simonovits) <span class="badge badge-rr">R&R — Nature Human Behaviour</span>
+- *Status quo bias drives publi support for drug policy in the United States* (with Gabor Simonovits) <span class="badge badge-rr">R&R</span> in Nature Human Behaviour
+<details class="abstract-toggle"><summary>Abstract</summary><p>Substance regulation in the United States is in a crisis. This report explores whether seemingly misaligned policies contradict public preferences or reflect biased citizen opinions. Using survey data (N=5,053) we show that policy outcomes align with public opinion. We further demonstrate that regulatory preferences are driven by status quo bias: support for the legality of legal substances exceeds that for hypothetical drugs with corresponding properties (∆median drug = 23.75, 95% CI [20.73, 27.18]), while the opposite holds for illegal drugs (∆median drug = 12.90, 95% CI [-15.79, -10.51]). Randomly assigning individuals to information about harm attenuates the status quo bias in the case of legal substances (∆median drug = −17.70, 95% CI[-21.47,-13.93]), but not for illegal ones. We discuss limits on public control over drug policies.</p></details>
 
 - *From Presidential Palace to Potholes: Does Female Leadership Spur Women's Local Political Engagement?* (with Daniel Kovarek) <span class="badge badge-rr">R&R</span>
 
