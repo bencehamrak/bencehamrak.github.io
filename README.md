@@ -14,35 +14,35 @@ I am a postdoctoral researcher at the University of Vienna. I research how polit
 <li>
 <strong>Hamrak, B.</strong>, Simonovits, G., Rusnak, A., &amp; Szucs, F. (2024). <em>Why Politicians Won't Apologize: Communication Effects in the Aftermath of Sex Scandals</em>. British Journal of Political Science.
 <a href="https://doi.org/10.1017/S0007123424000292" class="btn-article" target="_blank" rel="noopener">ARTICLE</a>
-<details class="abstract-toggle"><summary>Abstract</summary><p>[Add abstract here]</p></details>
+<details class="abstract-toggle"><summary>Abstract</summary><p>[A startling feature of the countless recent sex scandals involving politicians has been the almost complete lack of public apologies. This note explores the electoral incentives politicians face when crafting communication strategies in the aftermath of sex scandals. We focus on two communication strategies – denials and apologies – and assess their impact on incumbent support across a wide range of scandals that vary in terms of the seriousness of the charges as well as the availability of evidence. Using data from a series of survey experiments, including over 10,000 respondents we find that citizens punish incumbents who apologize, even in the case of accusations that appear the least serious in the eyes of voters. Moreover, apologies fail to generate political support compared to denials, even in cases when voters are exposed to evidence. This suggests that in most cases apologies are simply not politically viable communication strategies.]</p></details>
 </li>
 
 <li>
 Simonovits, G., Szucs, F., <strong>Hamrak, B.</strong> (2025). <em>Door to door campaigns in an electoral autocracy: Evidence from Hungary</em>. The Journal of Politics.
 <a href="https://doi.org/10.1086/735870" class="btn-article" target="_blank" rel="noopener">ARTICLE</a>
-<details class="abstract-toggle"><summary>Abstract</summary><p>[Add abstract here]</p></details>
+<details class="abstract-toggle"><summary>Abstract</summary><p>[To what extent can opposition parties in hybrid regimes persuade voters? Although door-to-door campaigning is a frequently used technique by parties, we lack scholarly evidence on their effectiveness in mobilizing voters — especially in nondemocratic contexts. In electoral autocracies, on-the-ground campaigns might prove especially important due to the inequality between parties’ media access and resources. In this study, we estimate the impact of a Hungarian opposition party’s canvassing efforts for the 2019 European Parliament election relying on granular data and precise information about how party activists were allocated to geographical units. We find that the party’s campaign led to a roughly 1-percentage point (about 15% of the standard deviation) increase compared to its previous vote share. At the same time, we also demonstrate that the campaign seemed to hurt other opposition parties instead of the governing party, highlighting the possible challenges that opposition parties face in electoral autocracies.]</p></details>
 </li>
 
 <li>
 <strong>Hamrak, B.</strong> (2025). <em>Identity After the Ballot: How winning and losing impact partisan identity and affective polarization</em>. Electoral Studies.
 <a href="https://doi.org/10.1016/j.electstud.2025.102967" class="btn-article" target="_blank" rel="noopener">ARTICLE</a>
-<details class="abstract-toggle"><summary>Abstract</summary><p>[Add abstract here]</p></details>
-</li>
-
-<li>
-Mintal, J. M., Butzlaff, F., <strong>Hamrak, B.</strong>, Vancel, R., Borsekova, K. <span class="badge badge-forthcoming">Forthcoming</span> <em>How Identity Fragmentation Complicates Voter-Party Congruence</em>. European Journal of Political Research.
+<details class="abstract-toggle"><summary>Abstract</summary><p>[How do election outcomes shape partisan affective polarization? Drawing on theories of group identity, I examine how winning or losing elections affects partisan attitudes. Election outcomes can change partisans’ perceived out-group threat and in-group status at the same time. These mechanisms lead to ambivalent predictions for the affective polarization of both winners and losers. In a series of randomized survey experiments from the United States (n = 7,188), I measure in- and out-party attitudes before and after hypothetical scenarios of election outcomes. I find no evidence that losing elections increases affective polarization. While losers’ out-party evaluations remain stable, winners show warmer in-party feelings. This suggests that elections lead to winner gratification rather than loser backlash. These findings challenge common concerns about the losers’ consent in democracies — at least when it comes to the emotional effects of election outcomes among the mass public.]</p></details>
 </li>
 
 <li>
 <strong>Hamrak, B.</strong>, Simonovits, G. &amp; Szucs, F. (2024). <em>Equilibrium communication in political scandals</em>. European Journal of Political Economy.
 <a href="https://doi.org/10.1016/j.ejpoleco.2024.102580" class="btn-article" target="_blank" rel="noopener">ARTICLE</a>
-<details class="abstract-toggle"><summary>Abstract</summary><p>[Add abstract here]</p></details>
+<details class="abstract-toggle"><summary>Abstract</summary><p>[We present a formal model in which elite communication and voters’ beliefs during a political scandal emerge as a communication equilibrium, determined by the severity of the accusations and the degree of media scrutiny. The prediction of our model is that incumbents’ use of denials can garner support even when they face the possibility of evidence showing their guilt. In contrast, public apologies increase approval – compared to denial – only when accusations are not very serious and are likely to be proved. Results from a large survey experiment corroborate these predictions. In order to explore how changes in the information environment shapes the communication equilibrium, we estimate the structural parameters of our model and conduct counterfactual simulations. We find that increasing media scrutiny leads to asymmetric effects on incumbent communication with politicians who are the best at covering up evidence actually benefiting from increased scrutiny.]</p></details>
 </li>
 
 <li>
 <strong>Hamrak, B.</strong>, Jenne, E., Littvay, L., &amp; Simonovits, G. (2025). <em>The public opinion effects of antisemitic anti-elite cues. A survey experiment on the Hungarian Soros campaign</em>. East European Politics.
 <a href="https://doi.org/10.1080/21599165.2025.2548250" class="btn-article" target="_blank" rel="noopener">ARTICLE</a>
-<details class="abstract-toggle"><summary>Abstract</summary><p>[Add abstract here]</p></details>
+<details class="abstract-toggle"><summary>Abstract</summary><p>[Right-wing populist leaders have long vilified left-wing activist George Soros to justify their policies. They accuse Soros and his organisations of being globalist elites who attack national sovereignty and traditional family values. The accusations themselves are loaded with antisemitic tropes. Despite this, it is unclear whether these populist, anti-elite messages effectively persuade citizens, or if antisemitic appeals specifically drive their impact. To answer these questions, we conduct a survey experiment in Hungary mimicking the Hungarian government's propaganda, which sometimes uses Soros as a symbol to mobilise support. We show that a random Soros' endorsement reduced policy support among pro-government respondents but increased it among anti-government ones. This suggests that Soros-bashing serves as a partisan cue in populist communication, helping to shape constituent preferences. However, overt antisemitic priming did not amplify the effects of Soros cues on policy preferences. These findings highlight the potential and limits of populist elite cueing.]p></details>
+</li>
+
+<li>
+Mintal, J. M., Butzlaff, F., <strong>Hamrak, B.</strong>, Vancel, R., Borsekova, K. <span class="badge badge-forthcoming">Forthcoming</span> <em>How Identity Fragmentation Complicates Voter-Party Congruence</em>. European Journal of Political Research.
 </li>
 
 </ul>
