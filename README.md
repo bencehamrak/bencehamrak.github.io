@@ -1,7 +1,3 @@
-## Welcome!
-
-You will find some details here about my research. Please get in touch!
-
 ## About me
 <p style="text-align:justify;">
 I am a postdoctoral researcher at the University of Vienna. My research is on political behavior and political psychology, organized around three themes. One strand examines democratic accountability: how voters respond to political scandals, whether policy outcomes reflect or distort public preferences, and how citizens monitor democratic norms. A second strand explores how institutions, events, and outcomes shape group identity — from partisan attitudes around elections to the effects of descriptive and symbolic representation on the political engagement. A third strand studies the politics of backsliding democracies: citizens' perceptions of democratic quality, opposition campaigning under competitive authoritarianism, and how elite messaging exploits and deepens societal polarization. To address these questions, I primarily use surveys, survey experiments, and causal inference methods for observational data. When out of the office, I am a serious hobby cyclist and a nature and animal enthusiast.
