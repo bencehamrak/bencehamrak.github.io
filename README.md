@@ -25,9 +25,9 @@ I am a postdoctoral researcher at the University of Vienna. I research how polit
 
 ### Citizen accountability and representation:
 
-- *Status quo bias and preferences for drug legalization: Evidence from a novel experimental approach* (with Gabor Simonovits) <span class="badge badge-rr">R&R — Nature Human Behaviour</span>
+- *Status quo bias and preferences for drug legalization: Evidence from a novel experimental approach* (with Gabor Simonovits) <span class="badge badge-rr">Review & Resubmit — Nature Human Behaviour</span>
 
-- *From Presidential Palace to Potholes: Does Female Leadership Spur Women's Local Political Engagement?* (with Daniel Kovarek) <span class="badge badge-review">Under Review</span>
+- *From the Presidential Palace to Potholes: Does Female Leadership Spur Women's Local Political Engagement?* (with Daniel Kovarek) <span class="badge badge-review">Review & Resubmit </span>
 
 - *Evaluating a Backsliding Democracy: Lay Perceptions vs. Experts Assessments in Hungary* (with Alexander Bor)
 
