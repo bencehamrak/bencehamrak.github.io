@@ -2,49 +2,106 @@
 ---
 @import "{{ site.theme }}";
 
+/* ═══════════════════════════════════════════════════════
+   THEME: Academic Navy
+   Primary:   #1d3557  (deep navy)
+   Secondary: #457b9d  (medium blue)
+   Accent:    #c0392b  (red — article buttons, R&R badge)
+   BG:        #f9f8f5  (warm off-white)
+   ═══════════════════════════════════════════════════════ */
+
+/* ── Global ───────────────────────────────────────────── */
+body {
+  background-color: #f9f8f5;
+  color: #2d2d2d;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 15px;
+  line-height: 1.65;
+}
+
+a {
+  color: #1d3557;
+  &:hover { color: #457b9d; }
+}
+
+/* ── Wrapper ──────────────────────────────────────────── */
+.wrapper {
+  background: #f9f8f5;
+}
+
 /* ── Header / Sidebar ─────────────────────────────────── */
 header {
-  img {
+  background: #ffffff;
+  border-right: 1px solid #e2e0db;
+  padding: 28px 20px 24px;
+
+  /* Profile photo — circular, scoped by class */
+  img.profile-photo {
     border-radius: 50%;
-    border: 2px solid #ccc;
-    padding: 0;
+    border: 3px solid #e2e0db;
     display: block;
-    margin: 0 auto 12px;
+    margin: 0 auto 14px;
+    width: 140px;
+    height: 140px;
+    object-fit: cover;
   }
 
-  h1 a {
-    color: #333;
-    text-decoration: none;
+  /* Icon images — small, no circle */
+  img.icon {
+    width: 14px;
+    height: 14px;
+    vertical-align: middle;
+    opacity: 0.6;
+    display: inline;
+    border-radius: 0;
+    border: none;
+    margin: 0;
   }
 
-  p {
+  h1 {
+    font-family: 'Arial Black', Arial, sans-serif;
+    font-size: 1.05em;
+    text-transform: uppercase;
     text-align: center;
+    letter-spacing: 0.06em;
+    color: #1d3557;
+    margin: 0 0 4px;
+
+    a {
+      color: #1d3557;
+      text-decoration: none;
+      &:hover { color: #457b9d; }
+    }
   }
 
-  p.view {
-    text-align: left;
+  p.tagline {
+    text-align: center;
+    font-size: 0.82em;
+    color: #777;
+    margin: 0 0 14px;
   }
 
-  /* Contact links in sidebar */
+  /* Contact link list */
   .contact-links {
     list-style: none;
     padding: 0;
-    margin: 12px 0 0;
-    text-align: center;
+    margin: 0 0 16px;
+    text-align: left;
 
     li {
-      margin: 8px 0;
-      font-size: 0.9em;
+      margin: 7px 0;
+      font-size: 0.82em;
 
       a {
         display: inline-flex;
         align-items: center;
         gap: 6px;
-        color: #555;
+        color: #444;
         text-decoration: none;
+        word-break: break-all;
 
         &:hover {
-          color: #222;
+          color: #1d3557;
           text-decoration: underline;
         }
       }
@@ -54,35 +111,52 @@ header {
   /* CV download button */
   .cv-download {
     display: block;
-    margin: 14px auto 0;
-    padding: 6px 16px;
-    background: #333;
+    margin: 0 auto;
+    padding: 7px 0;
+    background: #1d3557;
     color: #fff !important;
     border-radius: 4px;
     text-align: center;
-    font-size: 0.85em;
+    font-size: 0.82em;
+    font-weight: bold;
     text-decoration: none !important;
-    width: fit-content;
+    letter-spacing: 0.04em;
+    transition: background 0.15s;
 
-    &:hover {
-      background: #000;
-    }
+    &:hover { background: #457b9d; }
   }
 }
 
-/* ── Page background ──────────────────────────────────── */
-body {
-  background-color: #f4f4f4;
-  color: #222;
+/* ── Main content section ─────────────────────────────── */
+section {
+  border-left: none;
+  padding-left: 40px;
 }
 
-/* ── Title ────────────────────────────────────────────── */
+/* ── Title (h1 in content) ────────────────────────────── */
 h1 {
   font-family: 'Arial Black', Arial, sans-serif;
   text-transform: uppercase;
-  text-align: center;
-  margin-top: 0;
-  color: #111;
+  color: #1d3557;
+}
+
+/* ── Section headings ─────────────────────────────────── */
+section h2 {
+  font-size: 1.15em;
+  color: #1d3557;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  border-bottom: 2px solid #1d3557;
+  padding-bottom: 5px;
+  margin-top: 36px;
+  margin-bottom: 14px;
+}
+
+section h3 {
+  font-size: 0.95em;
+  color: #457b9d;
+  margin-top: 18px;
+  margin-bottom: 8px;
 }
 
 /* ── In-page navigation ───────────────────────────────── */
@@ -90,107 +164,169 @@ h1 {
   display: flex;
   flex-wrap: wrap;
   gap: 8px;
-  margin: 0 0 28px;
-  padding: 10px 0 12px;
+  margin: 0 0 30px;
+  padding: 0 0 14px;
   border-bottom: 1px solid #ddd;
 
   a {
-    font-size: 0.85em;
+    font-size: 0.78em;
     font-weight: bold;
     text-transform: uppercase;
-    letter-spacing: 0.05em;
-    color: #555;
+    letter-spacing: 0.07em;
+    color: #1d3557;
     text-decoration: none;
-    padding: 4px 10px;
+    padding: 4px 12px;
     border-radius: 3px;
-    border: 1px solid #ccc;
+    border: 1px solid #1d3557;
+    transition: background 0.15s, color 0.15s;
 
     &:hover {
-      background: #333;
+      background: #1d3557;
       color: #fff;
-      border-color: #333;
     }
+  }
+}
+
+/* ── Publication list ─────────────────────────────────── */
+section ul {
+  padding-left: 18px;
+
+  li {
+    margin-bottom: 14px;
+    line-height: 1.55;
+  }
+}
+
+/* ── ARTICLE button ───────────────────────────────────── */
+.btn-article {
+  display: inline-block;
+  background: #c0392b;
+  color: #fff !important;
+  font-size: 0.7em;
+  font-weight: bold;
+  padding: 2px 8px;
+  border-radius: 3px;
+  text-decoration: none !important;
+  letter-spacing: 0.07em;
+  vertical-align: middle;
+  margin-left: 6px;
+  transition: background 0.15s;
+
+  &:hover { background: #922b21; }
+}
+
+/* ── Collapsible abstracts ────────────────────────────── */
+.abstract-toggle {
+  margin-top: 5px;
+  display: block;
+
+  summary {
+    cursor: pointer;
+    color: #457b9d;
+    font-size: 0.8em;
+    font-weight: 600;
+    user-select: none;
+    display: inline-block;
+
+    &:hover { text-decoration: underline; }
+    &::marker { font-size: 0.8em; }
+  }
+
+  p {
+    font-size: 0.88em;
+    color: #444;
+    background: #eef2f8;
+    padding: 10px 14px;
+    border-left: 3px solid #457b9d;
+    margin: 6px 0 0;
+    line-height: 1.6;
+    text-align: justify;
+    border-radius: 0 3px 3px 0;
   }
 }
 
 /* ── Status badges ────────────────────────────────────── */
 .badge {
   display: inline-block;
-  font-size: 0.72em;
+  font-size: 0.7em;
   font-weight: bold;
   padding: 2px 7px;
   border-radius: 3px;
   vertical-align: middle;
   margin-left: 4px;
   text-transform: uppercase;
-  letter-spacing: 0.04em;
+  letter-spacing: 0.05em;
 }
 
+/* R&R — red */
 .badge-rr {
-  background: #d4edda;
-  color: #155724;
-  border: 1px solid #b8dfc4;
+  background: #fce4e4;
+  color: #7b1a1a;
+  border: 1px solid #f0b8b8;
 }
 
+/* Under Review — yellow */
 .badge-review {
   background: #fff3cd;
   color: #856404;
   border: 1px solid #f0d98c;
 }
 
+/* Forthcoming — blue */
 .badge-forthcoming {
   background: #cce5ff;
   color: #004085;
   border: 1px solid #a8d0f5;
 }
 
-/* ── Section headings ─────────────────────────────────── */
-section h2 {
-  border-bottom: 2px solid #ddd;
-  padding-bottom: 4px;
-  margin-top: 32px;
-}
+/* ── Footer ───────────────────────────────────────────── */
+footer {
+  color: #999;
+  font-size: 0.8em;
+  border-top: 1px solid #e2e0db;
+  padding-top: 10px;
 
-/* ── Publication list ─────────────────────────────────── */
-section ul li {
-  margin-bottom: 10px;
-  line-height: 1.5;
+  a { color: #999; &:hover { color: #457b9d; } }
 }
 
 /* ── Mobile ───────────────────────────────────────────── */
 @media (max-width: 720px) {
   .wrapper {
-    width: 95%;
-    padding: 10px;
+    width: 96%;
+    padding: 8px;
   }
 
   header {
     float: none;
-    width: 100%;
-    position: static;
+    width: 100% !important;
+    position: static !important;
     text-align: center;
-    padding: 20px 0 10px;
+    padding: 20px 16px 16px;
+    border-right: none;
+    border-bottom: 1px solid #e2e0db;
+    margin-bottom: 20px;
 
-    img {
+    img.profile-photo {
       width: 100px;
       height: 100px;
     }
 
-    h1 {
-      font-size: 1.4em;
+    .contact-links {
+      text-align: center;
+      li a { justify-content: center; }
     }
   }
 
   section {
-    float: none;
-    width: 100%;
-    border: none;
-    padding: 0;
+    float: none !important;
+    width: 100% !important;
+    padding-left: 0 !important;
+    border: none !important;
   }
 
   footer {
-    width: 100%;
-    padding: 10px 0;
+    width: 100% !important;
+    float: none !important;
   }
 
   .page-nav {
