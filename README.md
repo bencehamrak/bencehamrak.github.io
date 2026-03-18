@@ -4,7 +4,7 @@ You will find some details here about my research. Please get in touch!
 
 ## About me
 <p style="text-align:justify;">
-I am a postdoctoral researcher at the University of Vienna. My research is on political behavior and political psychology, organized around three themes. One strand examines democratic accountability: how voters respond to political scandals, whether policy outcomes reflect or distort public preferences, and how citizens monitor democratic norms. A second strand explores how institutions, events, and outcomes shape group identity — from partisan attitudes around elections to the effects of descriptive and symbolic representation on the political engagement. A third strand studies the politics of backsliding democracies: citizens' perceptions of democratic quality, opposition campaigning under competitive authoritarianism, and how elite messaging exploits and deepens societal polarization. To address these questions, I primarily use surveys, survey experiments, and causal inference methods for observational data. When out of the office, I am a serious hobby cyclist and a nature and animal enthusiast.
+I am a postdoctoral researcher at the University of Vienna. I research how political institutions and norms influence group identities, such as partisanship and gender, through the lenses of affective polarization and group representation. Beyond this, I study how citizens form opinions on contentious or complex issues —like political scandals or drug regulation— and how biases constrain democratic accountability. To address these questions, I primarily use surveys, survey experiments, and causal inference methods for observational data. When out of office, I am a serious hobby cyclist, and a nature and animal enthusiast.
 </p>
 
 ## Publications
@@ -14,6 +14,7 @@ I am a postdoctoral researcher at the University of Vienna. My research is on po
 <li>
 <strong>Hamrak, B.</strong>, Simonovits, G., Rusnak, A., &amp; Szucs, F. (2024). <em>Why Politicians Won't Apologize: Communication Effects in the Aftermath of Sex Scandals</em>. British Journal of Political Science.
 <a href="https://doi.org/10.1017/S0007123424000292" class="btn-article" target="_blank" rel="noopener">ARTICLE</a>
+<a href="https://blogs.lse.ac.uk/usappblog/2025/06/03/there-is-no-electoral-reward-for-politicians-who-apologize-during-scandals/#Author" class="btn-media" target="_blank" rel="noopener">MEDIA</a>
 <details class="abstract-toggle"><summary>Abstract</summary><p>A startling feature of the countless recent sex scandals involving politicians has been the almost complete lack of public apologies. This note explores the electoral incentives politicians face when crafting communication strategies in the aftermath of sex scandals. We focus on two communication strategies – denials and apologies – and assess their impact on incumbent support across a wide range of scandals that vary in terms of the seriousness of the charges as well as the availability of evidence. Using data from a series of survey experiments, including over 10,000 respondents we find that citizens punish incumbents who apologize, even in the case of accusations that appear the least serious in the eyes of voters. Moreover, apologies fail to generate political support compared to denials, even in cases when voters are exposed to evidence. This suggests that in most cases apologies are simply not politically viable communication strategies.</p></details>
 </li>
 
@@ -38,6 +39,7 @@ Simonovits, G., Szucs, F., <strong>Hamrak, B.</strong> (2025). <em>Door to door 
 <li>
 <strong>Hamrak, B.</strong>, Jenne, E., Littvay, L., &amp; Simonovits, G. (2025). <em>The public opinion effects of antisemitic anti-elite cues. A survey experiment on the Hungarian Soros campaign</em>. East European Politics.
 <a href="https://doi.org/10.1080/21599165.2025.2548250" class="btn-article" target="_blank" rel="noopener">ARTICLE</a>
+<a href="https://staatswissenschaft.univie.ac.at/news-detailansicht/news/blog-george-soros-a-political-cue-in-hungarian-populist-politics/" class="btn-media" target="_blank" rel="noopener">MEDIA</a>
 <details class="abstract-toggle"><summary>Abstract</summary><p>Right-wing populist leaders have long vilified left-wing activist George Soros to justify their policies. They accuse Soros and his organisations of being globalist elites who attack national sovereignty and traditional family values. The accusations themselves are loaded with antisemitic tropes. Despite this, it is unclear whether these populist, anti-elite messages effectively persuade citizens, or if antisemitic appeals specifically drive their impact. To answer these questions, we conduct a survey experiment in Hungary mimicking the Hungarian government's propaganda, which sometimes uses Soros as a symbol to mobilise support. We show that a random Soros' endorsement reduced policy support among pro-government respondents but increased it among anti-government ones. This suggests that Soros-bashing serves as a partisan cue in populist communication, helping to shape constituent preferences. However, overt antisemitic priming did not amplify the effects of Soros cues on policy preferences. These findings highlight the potential and limits of populist elite cueing.</p></details>
 </li>
 
@@ -54,7 +56,7 @@ Mintal, J. M., Butzlaff, F., <strong>Hamrak, B.</strong>, Vancel, R., Borsekova,
 <ul>
 
 <li>
-<em>Status quo bias drives public support for drug policy in the United States</em> (with Gabor Simonovits) <span class="badge badge-rr">R&amp;R</span> in Nature Human Behaviour
+<em>Status quo bias drives public support for drug policy in the United States</em> (with Gabor Simonovits) <span class="badge badge-rr">R&amp;R — Nature Human Behaviour</span>
 <details class="abstract-toggle"><summary>Abstract</summary><p>Substance regulation in the United States is in a crisis. This report explores whether seemingly misaligned policies contradict public preferences or reflect biased citizen opinions. Using survey data (N=5,053) we show that policy outcomes align with public opinion. We further demonstrate that regulatory preferences are driven by status quo bias: support for the legality of legal substances exceeds that for hypothetical drugs with corresponding properties (∆median drug = 23.75, 95% CI [20.73, 27.18]), while the opposite holds for illegal drugs (∆median drug = 12.90, 95% CI [-15.79, -10.51]). Randomly assigning individuals to information about harm attenuates the status quo bias in the case of legal substances (∆median drug = −17.70, 95% CI[-21.47,-13.93]), but not for illegal ones. We discuss limits on public control over drug policies.</p></details>
 </li>
 
