@@ -47,7 +47,7 @@ Mintal, J. M., Butzlaff, F., <strong>Hamrak, B.</strong>, Vancel, R., Borsekova,
 
 </ul>
 
-## Research in-progress
+## Working Papers
 
 ### Citizen accountability and representation:
 
