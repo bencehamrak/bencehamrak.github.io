@@ -1,15 +1,8 @@
-title: Bence Hamrák 
+title: Bence Hamrák
 logo: /assets/icons/logo.jpeg
-description: > 
-  <br>
-  ✉️ <a href="mailto:bence.hamrak@univie.ac.at"> bence.hamrak@univie.ac.at </a> 
-  <br>
-  🦋 <a href="https://bsky.app/profile/bencehamrak.bsky.social"> @benhmrk.bsky.social </a> 
-  <br>
-  🎓 <a href="https://scholar.google.com/citations?user=uOswV2gAAAAJ&hl=hu"> Google scholar </a>
-  <br>
+description: Postdoctoral Researcher, University of Vienna
 theme: jekyll-theme-minimal
-sass: 
+sass:
   custom_css: /assets/css/style.scss
 show_downloads: false
 github:
