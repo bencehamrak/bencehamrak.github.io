@@ -4,9 +4,11 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="google-site-verification" content="-3pJcxaihKuFTbg9qPKNXa-sf2flVVMV5733FZdtYBc" />
-{% seo %}
+    <meta name="google-site-verification" content="-3pJcxaihKuFTbg9qPKNXa-sf2flVVMV5733FZdtYBc" />
+    {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <!-- Favicon -->
+    <link rel="icon" type="image/svg+xml" href="{{ "/assets/icons/favicon.svg" | relative_url }}">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
@@ -15,34 +17,59 @@
     <div class="wrapper">
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-        
+
         {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
+          <img src="{{site.logo | relative_url}}" alt="Profile photo of {{ site.title }}" />
         {% endif %}
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+        <!-- Styled contact links -->
+        <ul class="contact-links">
+          <li>
+            <a href="mailto:bence.hamrak@univie.ac.at">
+              <img src="{{ "/assets/icons/mail.svg" | relative_url }}" class="icon" alt="Email" />
+              bence.hamrak@univie.ac.at
+            </a>
+          </li>
+          <li>
+            <a href="https://bsky.app/profile/bencehamrak.bsky.social" target="_blank" rel="noopener">
+              <img src="{{ "/assets/icons/bsky.svg" | relative_url }}" class="icon" alt="Bluesky" />
+              @benhmrk.bsky.social
+            </a>
+          </li>
+          <li>
+            <a href="https://scholar.google.com/citations?user=uOswV2gAAAAJ&hl=hu" target="_blank" rel="noopener">
+              🎓 Google Scholar
+            </a>
+          </li>
+        </ul>
 
-        {% if site.github.is_project_page %}
-        <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
-        {% endif %}
+        <!-- CV download button -->
+        <a href="{{ "/assets/cv.pdf" | relative_url }}" class="cv-download" target="_blank">
+          ↓ Download CV
+        </a>
 
         {% if site.github.is_user_page %}
-        <p class="view"><a href="{{ site.github.owner_url }}"><img src="https://img.shields.io/badge/GitHub-blue?logo=GitHub"></a></p>
+        <p class="view" style="margin-top:14px;">
+          <a href="{{ site.github.owner_url }}"><img src="https://img.shields.io/badge/GitHub-blue?logo=GitHub" alt="GitHub"></a>
+        </p>
         {% endif %}
 
-        {% if site.show_downloads %}
-        <ul class="downloads">
-          <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
-          <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
-          <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
-        </ul>
-        {% endif %}
       </header>
+
       <section>
 
-      {{ content }}
+        <!-- In-page navigation -->
+        <nav class="page-nav" aria-label="Page sections">
+          <a href="#about-me">About</a>
+          <a href="#publications">Publications</a>
+          <a href="#research-in-progress">Working Papers</a>
+          <a href="#contact">Contact</a>
+        </nav>
+
+        {{ content }}
 
       </section>
+
       <footer>
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
