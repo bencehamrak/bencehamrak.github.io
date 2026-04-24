@@ -8,6 +8,11 @@ I am a postdoctoral researcher at the University of Vienna. My research is on po
 <ul>
 
 <li>
+<em>Status quo bias drives public support for drug policy in the United States</em> (with Gabor Simonovits) <span class="badge badge-forthcoming">Forthcoming</span> in Nature Human Behaviour
+<details class="abstract-toggle"><summary>Abstract</summary><p>Substance regulation in the United States is in a crisis. This report explores whether seemingly misaligned policies contradict public preferences or reflect biased citizen opinions. Using survey data (N=5,053) we show that policy outcomes align with public opinion. We further demonstrate that regulatory preferences are driven by status quo bias: support for the legality of legal substances exceeds that for hypothetical drugs with corresponding properties (∆median drug = 23.75, 95% CI [20.73, 27.18]), while the opposite holds for illegal drugs (∆median drug = 12.90, 95% CI [-15.79, -10.51]). Randomly assigning individuals to information about harm attenuates the status quo bias in the case of legal substances (∆median drug = −17.70, 95% CI[-21.47,-13.93]), but not for illegal ones. We discuss limits on public control over drug policies.</p></details>
+</li>
+
+<li>
 <strong>Hamrak, B.</strong>, Simonovits, G., Rusnak, A., &amp; Szucs, F. (2024). <em>Why Politicians Won't Apologize: Communication Effects in the Aftermath of Sex Scandals</em>. British Journal of Political Science.
 <a href="https://doi.org/10.1017/S0007123424000292" class="btn-article" target="_blank" rel="noopener">ARTICLE</a>
 <a href="https://blogs.lse.ac.uk/usappblog/2025/06/03/there-is-no-electoral-reward-for-politicians-who-apologize-during-scandals/#Author" class="btn-media" target="_blank" rel="noopener">MEDIA</a>
@@ -51,11 +56,6 @@ Mintal, J. M., Butzlaff, F., <strong>Hamrak, B.</strong>, Vancel, R., Borsekova,
 ### Citizen accountability and representation:
 
 <ul>
-
-<li>
-<em>Status quo bias drives public support for drug policy in the United States</em> (with Gabor Simonovits) <span class="badge badge-rr">R&amp;R</span> in Nature Human Behaviour
-<details class="abstract-toggle"><summary>Abstract</summary><p>Substance regulation in the United States is in a crisis. This report explores whether seemingly misaligned policies contradict public preferences or reflect biased citizen opinions. Using survey data (N=5,053) we show that policy outcomes align with public opinion. We further demonstrate that regulatory preferences are driven by status quo bias: support for the legality of legal substances exceeds that for hypothetical drugs with corresponding properties (∆median drug = 23.75, 95% CI [20.73, 27.18]), while the opposite holds for illegal drugs (∆median drug = 12.90, 95% CI [-15.79, -10.51]). Randomly assigning individuals to information about harm attenuates the status quo bias in the case of legal substances (∆median drug = −17.70, 95% CI[-21.47,-13.93]), but not for illegal ones. We discuss limits on public control over drug policies.</p></details>
-</li>
 
 <li>
 <em>From Presidential Palace to Potholes: Does Female Leadership Spur Women's Local Political Engagement?</em> (with Daniel Kovarek) <span class="badge badge-rr">R&amp;R</span>
