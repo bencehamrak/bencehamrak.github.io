@@ -60,7 +60,7 @@ Mintal, J. M., Butzlaff, F., <strong>Hamrak, B.</strong>, Vancel, R., Borsekova,
 <ul>
 
 <li>
-Citizens’ Fundamental Motivations for Multidimensional Political Representation (with Christopher Wratil)
+<em>Citizens’ Fundamental Motivations for Multidimensional Political Representation.</em> (with Christopher Wratil)
 </li>
 
 <li>
