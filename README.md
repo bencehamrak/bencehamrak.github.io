@@ -1,6 +1,6 @@
 ## About me
 <p style="text-align:justify;">
-I am a postdoctoral researcher at the University of Vienna. My research is on political behavior and political psychology, organized around three themes. One strand examines democratic accountability: how voters respond to political scandals, whether policy outcomes reflect or distort public preferences, and how citizens monitor democratic norms. A second strand explores how institutions, events, and outcomes shape group identity — from partisan attitudes around elections to the effects of descriptive and symbolic representation on the political engagement. A third strand studies the politics of backsliding democracies: citizens' perceptions of democratic quality, opposition campaigning under competitive authoritarianism, and how elite messaging exploits and deepens societal polarization. To address these questions, I primarily use surveys, survey experiments, and causal inference methods for observational data. When out of the office, I am a serious hobby cyclist and a nature and animal enthusiast.
+I am a Research Fellow at the European University Institute in Florence. I obtained my PhD from the Central European University in Comparative Politics. Previously, I was a postdoctoral researcher at the University of Vienna. In my research, I ask the question under what conditions democratic accountability, representation, and resilience holds or collapses. I focus on the role of citizens, civil servants, politicians and parties. I approach these questions through group psychology, group behavior, affective and informational biases. My publications, amongst others, explore public opinion formation and attitudes on contentious and complex issues and policies (such as elections, political scandals, or drug regulation), the public's perception of democratic quality, or citizens' motivations for political representation. I specialize in survey and experimental techniques. When out of the office, I am a serious hobby cyclist and a nature and animal enthusiast.
 </p>
 
 ## Publications
@@ -8,7 +8,8 @@ I am a postdoctoral researcher at the University of Vienna. My research is on po
 <ul>
 
 <li>
-<strong>Hamrak, B.</strong>, Simonovits, G. <span class="badge badge-forthcoming">Forthcoming</span>. <em>Status quo bias drives public support for drug policy in the United States</em>. Nature Human Behaviour
+<strong>Hamrak, B.</strong>, Simonovits, G. (2026). <em>Status quo bias drives public support for drug policy in the United States</em>. Nature Human Behaviour.
+<a href="https://www.nature.com/articles/s41562-026-02471-y" class="btn-article" target="_blank" rel="noopener">ARTICLE</a>
 <details class="abstract-toggle"><summary>Abstract</summary><p>Substance regulation in the United States is in a crisis. This report explores whether seemingly misaligned policies contradict public preferences or reflect biased citizen opinions. Using survey data (N=5,053) we show that policy outcomes align with public opinion. We further demonstrate that regulatory preferences are driven by status quo bias: support for the legality of legal substances exceeds that for hypothetical drugs with corresponding properties (∆median drug = 23.75, 95% CI [20.73, 27.18]), while the opposite holds for illegal drugs (∆median drug = 12.90, 95% CI [-15.79, -10.51]). Randomly assigning individuals to information about harm attenuates the status quo bias in the case of legal substances (∆median drug = −17.70, 95% CI[-21.47,-13.93]), but not for illegal ones. We discuss limits on public control over drug policies.</p></details>
 </li>
 
@@ -46,7 +47,8 @@ Simonovits, G., Szucs, F., <strong>Hamrak, B.</strong> (2025). <em>Door to door 
 </li>
 
 <li>
-Mintal, J. M., Butzlaff, F., <strong>Hamrak, B.</strong>, Vancel, R., Borsekova, K. <span class="badge badge-forthcoming">Forthcoming</span> <em>How Identity Fragmentation Complicates Voter-Party Congruence</em>. European Journal of Political Research.
+Mintal, J. M., Butzlaff, F., <strong>Hamrak, B.</strong>, Vancel, R., Borsekova, K. (2026). <em>How Identity Fragmentation Complicates Voter-Party Congruence</em>. European Journal of Political Research.
+<a href="https://www.cambridge.org/core/journals/european-journal-of-political-research/article/paradox-of-representation-how-identity-fragmentation-complicates-voterparty-congruence/9EEE21C51DB2FB7A90D900801C46D365" class="btn-article" target="_blank" rel="noopener">ARTICLE</a>
 </li>
 
 </ul>
@@ -58,7 +60,11 @@ Mintal, J. M., Butzlaff, F., <strong>Hamrak, B.</strong>, Vancel, R., Borsekova,
 <ul>
 
 <li>
-<em>From Presidential Palace to Potholes: Does Female Leadership Spur Women's Local Political Engagement?</em> (with Daniel Kovarek) <span class="badge badge-rr">R&amp;R</span>
+Citizens’ Fundamental Motivations for Multidimensional Political Representation (with Christopher Wratil)
+</li>
+
+<li>
+<em>Does Female Leadership Spur Women's Local Political Engagement? Evidence from a street-problem reporting platform in Slovakia.</em> (with Daniel Kovarek) <span class="badge badge-rr">R&amp;R</span>
 <details class="abstract-toggle"><summary>Abstract</summary><p>We examine whether electing female leaders increases women's political engagement. While existing research emphasizes descriptive representation's effects on attitudes and stated preferences, little is known about behavioral outcomes. Using a unique dataset from Slovakia, we measure women's actual civic participation in a continuous fashion via the online platform Odkaz pre starostu, where citizens report local issues (N = 92,493). We infer user gender through an established machine classification method, leveraging the fact that most users use real names. Applying a regression discontinuity in time (RDiT) design, we identify the effect of Zuzana Caputova's 2019 election as Slovakia's first female president on the baseline gender gap in problem reports. Our results reveal a roughly 10 percentage-point rise in the weekly share of female submissions immediately after the election. These findings provide rare behavioral evidence that descriptive representation can foster political engagement.</p></details>
 </li>
 
@@ -74,7 +80,7 @@ Mintal, J. M., Butzlaff, F., <strong>Hamrak, B.</strong>, Vancel, R., Borsekova,
 <ul>
 
 <li>
-<em>Football and Out-Party Animosity: Testing the Common In-Group Theory Using Everyday Real Events</em>
+<em>Football and out-party animosity: Testing the ecological validity of the common in-group identity theory through everyday events</em>
 </li>
 
 <li>
