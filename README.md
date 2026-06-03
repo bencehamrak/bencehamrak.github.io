@@ -91,4 +91,4 @@ Mintal, J. M., Butzlaff, F., <strong>Hamrak, B.</strong>, Vancel, R., Borsekova,
 
 ## Contact
 
-Feel free to reach out by [email](mailto:bence.hamrak@univie.ac.at), find me on [Bluesky](https://bsky.app/profile/bencehamrak.bsky.social), or browse my work on [Google Scholar](https://scholar.google.com/citations?user=uOswV2gAAAAJ&hl=hu).
+Feel free to reach out by [email](mailto:bence.hamrak@eui.eu), find me on [Bluesky](https://bsky.app/profile/bencehamrak.bsky.social), or browse my work on [Google Scholar](https://scholar.google.com/citations?user=uOswV2gAAAAJ&hl=hu).
