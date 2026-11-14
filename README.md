@@ -41,7 +41,7 @@ Mintal, J. M., Butzlaff, F., <strong>Hamrak, B.</strong>, Vancel, R., Borsekova,
 
 </ul>
 
-## On-going projects
+## Ongoing projects
 
 <ul>
 
