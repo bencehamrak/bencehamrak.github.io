@@ -35,19 +35,6 @@ Simonovits, G., Szucs, F., <strong>Hamrak, B.</strong> (2025). <em>Door to door 
 </li>
 
 <li>
-<strong>Hamrak, B.</strong>, Simonovits, G. &amp; Szucs, F. (2024). <em>Equilibrium communication in political scandals</em>. European Journal of Political Economy.
-<a href="https://doi.org/10.1016/j.ejpoleco.2024.102580" class="btn-article" target="_blank" rel="noopener">ARTICLE</a>
-<details class="abstract-toggle"><summary>Abstract</summary><p>We present a formal model in which elite communication and voters' beliefs during a political scandal emerge as a communication equilibrium, determined by the severity of the accusations and the degree of media scrutiny. The prediction of our model is that incumbents' use of denials can garner support even when they face the possibility of evidence showing their guilt. In contrast, public apologies increase approval – compared to denial – only when accusations are not very serious and are likely to be proved. Results from a large survey experiment corroborate these predictions. In order to explore how changes in the information environment shapes the communication equilibrium, we estimate the structural parameters of our model and conduct counterfactual simulations. We find that increasing media scrutiny leads to asymmetric effects on incumbent communication with politicians who are the best at covering up evidence actually benefiting from increased scrutiny.</p></details>
-</li>
-
-<li>
-<strong>Hamrak, B.</strong>, Jenne, E., Littvay, L., &amp; Simonovits, G. (2025). <em>The public opinion effects of antisemitic anti-elite cues. A survey experiment on the Hungarian Soros campaign</em>. East European Politics.
-<a href="https://doi.org/10.1080/21599165.2025.2548250" class="btn-article" target="_blank" rel="noopener">ARTICLE</a>
-<a href="https://staatswissenschaft.univie.ac.at/news-detailansicht/news/blog-george-soros-a-political-cue-in-hungarian-populist-politics/" class="btn-media" target="_blank" rel="noopener">MEDIA</a>
-<details class="abstract-toggle"><summary>Abstract</summary><p>Right-wing populist leaders have long vilified left-wing activist George Soros to justify their policies. They accuse Soros and his organisations of being globalist elites who attack national sovereignty and traditional family values. The accusations themselves are loaded with antisemitic tropes. Despite this, it is unclear whether these populist, anti-elite messages effectively persuade citizens, or if antisemitic appeals specifically drive their impact. To answer these questions, we conduct a survey experiment in Hungary mimicking the Hungarian government's propaganda, which sometimes uses Soros as a symbol to mobilise support. We show that a random Soros' endorsement reduced policy support among pro-government respondents but increased it among anti-government ones. This suggests that Soros-bashing serves as a partisan cue in populist communication, helping to shape constituent preferences. However, overt antisemitic priming did not amplify the effects of Soros cues on policy preferences. These findings highlight the potential and limits of populist elite cueing.</p></details>
-</li>
-
-<li>
 Mintal, J. M., Butzlaff, F., <strong>Hamrak, B.</strong>, Vancel, R., Borsekova, K. (2026). <em>How Identity Fragmentation Complicates Voter-Party Congruence</em>. European Journal of Political Research.
 <a href="https://www.cambridge.org/core/journals/european-journal-of-political-research/article/paradox-of-representation-how-identity-fragmentation-complicates-voterparty-congruence/9EEE21C51DB2FB7A90D900801C46D365" class="btn-article" target="_blank" rel="noopener">ARTICLE</a>
 </li>
