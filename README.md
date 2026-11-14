@@ -1,15 +1,16 @@
 ## About me
 <p style="text-align:justify;">
-I am a Research Fellow at the European University Institute in Florence. I obtained my PhD from the Central European University in Comparative Politics. Previously, I was a postdoctoral researcher at the University of Vienna. In my research, I ask the question under what conditions democratic accountability, representation, and resilience holds or collapses. I focus on the role of actors: citizens, civil servants, politicians and parties. I approach these questions through group psychology and group behavior, and affective and informational biases. My publications, for example, explore public opinion formation and attitudes on contentious and complex issues and policies (such as elections, political scandals, or drug regulation), the public's perception of democratic quality, or the citizens' deep-seated motivations for political representation. I specialize in survey and experimental techniques. When out of the office, I am a serious hobby cyclist and a nature and animal enthusiast.
+I am a Research Fellow at the European University Institute in Florence. I obtained my PhD from the Central European University in Comparative Politics. In my research, I ask the question under what conditions democratic accountability, representation, and resilience holds or collapses. I focus on the role of citizens, civil servants, politicians and parties. I approach these questions through group psychology and group behavior, and affective and informational biases. I specialize in survey and experimental techniques. When out of the office, I am a serious hobby cyclist and a nature enthusiast.
 </p>
 
-## Publications
+## Selected publications
 
 <ul>
 
 <li>
 <strong>Hamrak, B.</strong>, Simonovits, G. (2026). <em>Status quo bias drives public support for drug policy in the United States</em>. Nature Human Behaviour.
 <a href="https://www.nature.com/articles/s41562-026-02471-y" class="btn-article" target="_blank" rel="noopener">ARTICLE</a>
+<a href="https://www.psypost.org/the-psychological-bias-keeping-u-s-drug-laws-out-of-step-with-science/" class="btn-media" target="_blank" rel="noopener">MEDIA</a>
 <details class="abstract-toggle"><summary>Abstract</summary><p>Substance regulation in the United States is in a crisis. This report explores whether seemingly misaligned policies contradict public preferences or reflect biased citizen opinions. Using survey data (N=5,053) we show that policy outcomes align with public opinion. We further demonstrate that regulatory preferences are driven by status quo bias: support for the legality of legal substances exceeds that for hypothetical drugs with corresponding properties (∆median drug = 23.75, 95% CI [20.73, 27.18]), while the opposite holds for illegal drugs (∆median drug = 12.90, 95% CI [-15.79, -10.51]). Randomly assigning individuals to information about harm attenuates the status quo bias in the case of legal substances (∆median drug = −17.70, 95% CI[-21.47,-13.93]), but not for illegal ones. We discuss limits on public control over drug policies.</p></details>
 </li>
 
@@ -53,31 +54,23 @@ Mintal, J. M., Butzlaff, F., <strong>Hamrak, B.</strong>, Vancel, R., Borsekova,
 
 </ul>
 
-## Working Papers
-
-### Citizen accountability and representation:
-
 <ul>
 
+## On-going projects
+
 <li>
-<em>Citizens’ Fundamental Motivations for Multidimensional Political Representation.</em> (with Christopher Wratil)
+<em>When Breaking the Glass Ceiling Inspires Female Political Engagement: Evidence from 92,000 Street-Level Problem Reports </em> (with Daniel Kovarek) <span class="badge badge-rr">Conditionally Accepted</span>
+<details class="abstract-toggle"><summary>Abstract</summary><p>We examine whether electing female leaders increases women's political engagement. While existing research emphasizes descriptive representation's effects on attitudes and stated preferences, little is known about behavioral outcomes. Using a unique dataset from Slovakia, we measure women's actual civic participation in a continuous fashion via the online platform Odkaz pre starostu, where citizens report local issues (N = 92,493). We infer user gender through an established machine classification method, leveraging the fact that most users use real names. Applying a regression discontinuity in time (RDiT) design, we identify the effect of Zuzana Caputova's 2019 election as Slovakia's first female president on the baseline gender gap in problem reports. Our results reveal a roughly 10 percentage-point rise in the weekly share of female submissions immediately after the election. These findings provide rare behavioral evidence that descriptive representation can foster political engagement.</p></details>
 </li>
 
 <li>
-<em>Does Female Leadership Spur Women's Local Political Engagement? Evidence from a street-problem reporting platform in Slovakia.</em> (with Daniel Kovarek) <span class="badge badge-rr">R&amp;R</span>
-<details class="abstract-toggle"><summary>Abstract</summary><p>We examine whether electing female leaders increases women's political engagement. While existing research emphasizes descriptive representation's effects on attitudes and stated preferences, little is known about behavioral outcomes. Using a unique dataset from Slovakia, we measure women's actual civic participation in a continuous fashion via the online platform Odkaz pre starostu, where citizens report local issues (N = 92,493). We infer user gender through an established machine classification method, leveraging the fact that most users use real names. Applying a regression discontinuity in time (RDiT) design, we identify the effect of Zuzana Caputova's 2019 election as Slovakia's first female president on the baseline gender gap in problem reports. Our results reveal a roughly 10 percentage-point rise in the weekly share of female submissions immediately after the election. These findings provide rare behavioral evidence that descriptive representation can foster political engagement.</p></details>
+<em>Citizens’ Motivations for Political Representation.</em> (with Christopher Wratil)
 </li>
 
 <li>
 <em>Evaluating a Backsliding Democracy: Lay Perceptions vs. Experts Assessments in Hungary</em> (with Alexander Bor)
 <details class="abstract-toggle"><summary>Abstract</summary><p>Citizens are often regarded as the ultimate guardians of democracy, yet questions remain about their ability and willingness to fulfill this role. Citizens may ignore, forget, or fail to encounter information about subversion – especially because many backsliding democracies are characterized by media capture, polarized media environments, political alienation and apathy. Are citizens aware of various democratic norms and institutions come under attack? This study shifts the focus to granular perceptions about the norms of electoral democracy as a critical component of democratic commitment employing Hungary as a critical case of a backsliding democracy. We translate V-Dem's all 23 subjective indicators of electoral democracy into accessible items and ask respondents to evaluate their country's democratic standing using a representative survey (N = 1187). We explore whether these assessments align with expert evaluations and how partisan identity, affective polarization, and demographic variables shape perceptions. We also quantify how each of these indicators contribute to perceptions of the country's democraticness in general. Our findings show that on average citizens are fairly close to experts on most democratic indicators. Low education, being opposed to the government, and being affectively polarized increase the odds that a respondent underestimate the quality of democracy in Hungary.</p></details>
 </li>
-
-</ul>
-
-### Partisan identity:
-
-<ul>
 
 <li>
 <em>Football and out-party animosity: Testing the ecological validity of the common in-group identity theory through everyday events</em>
