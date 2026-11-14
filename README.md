@@ -41,9 +41,9 @@ Mintal, J. M., Butzlaff, F., <strong>Hamrak, B.</strong>, Vancel, R., Borsekova,
 
 </ul>
 
-<ul>
-
 ## On-going projects
+
+<ul>
 
 <li>
 <em>Citizens’ Motivations for Political Representation.</em> (with Christopher Wratil)
