@@ -59,12 +59,17 @@ Mintal, J. M., Butzlaff, F., <strong>Hamrak, B.</strong>, Vancel, R., Borsekova,
 ## On-going projects
 
 <li>
-<em>When Breaking the Glass Ceiling Inspires Female Political Engagement: Evidence from 92,000 Street-Level Problem Reports </em> (with Daniel Kovarek) <span class="badge badge-rr">Conditionally Accepted</span>
-<details class="abstract-toggle"><summary>Abstract</summary><p>We examine whether electing female leaders increases women's political engagement. While existing research emphasizes descriptive representation's effects on attitudes and stated preferences, little is known about behavioral outcomes. Using a unique dataset from Slovakia, we measure women's actual civic participation in a continuous fashion via the online platform Odkaz pre starostu, where citizens report local issues (N = 92,493). We infer user gender through an established machine classification method, leveraging the fact that most users use real names. Applying a regression discontinuity in time (RDiT) design, we identify the effect of Zuzana Caputova's 2019 election as Slovakia's first female president on the baseline gender gap in problem reports. Our results reveal a roughly 10 percentage-point rise in the weekly share of female submissions immediately after the election. These findings provide rare behavioral evidence that descriptive representation can foster political engagement.</p></details>
+<em>Citizens’ Motivations for Political Representation.</em> (with Christopher Wratil)
 </li>
 
 <li>
-<em>Citizens’ Motivations for Political Representation.</em> (with Christopher Wratil)
+<em>Mass Preferences for Lustration after a Competitive–Authoritarian Regime</em> (with Alexander Bor, Daniel Kovarek, and Gabor Simnonovits)
+</li>
+
+
+<li>
+<em>When Breaking the Glass Ceiling Inspires Female Political Engagement: Evidence from 92,000 Street-Level Problem Reports </em> (with Daniel Kovarek) <span class="badge badge-rr">Conditionally Accepted</span>
+<details class="abstract-toggle"><summary>Abstract</summary><p>We examine whether electing female leaders increases women's political engagement. While existing research emphasizes descriptive representation's effects on attitudes and stated preferences, little is known about behavioral outcomes. Using a unique dataset from Slovakia, we measure women's actual civic participation in a granular and continuous fashion via the online platform Odkaz pre starostu, where citizens report local issues (N = 92,493). We infer user gender through an established machine classification method, leveraging the fact that most users use real names. Applying a regression discontinuity in time design, we examine the effect of Zuzana Čaputová's 2019 election as Slovakia's first female president on the baseline gender gap in problem reports. Our results reveal a roughly 10 percentage-point rise in the weekly share of female submissions immediately after the election. These findings provide rare behavioral evidence that descriptive representation can foster political engagement.</p></details>
 </li>
 
 <li>
@@ -74,10 +79,7 @@ Mintal, J. M., Butzlaff, F., <strong>Hamrak, B.</strong>, Vancel, R., Borsekova,
 
 <li>
 <em>Football and out-party animosity: Testing the ecological validity of the common in-group identity theory through everyday events</em>
-</li>
-
-<li>
-<em>Partisan Favoritism or Democratic Vigilance? Testing the Mechanisms Behind Citizens' Differential Support for Democratic Norm Violation in Opposition and Government</em> (with Kata Moravecz, Mariyana Angelova, Levente Littvay, Jennifer McCoy, and Gabor Simonovits)
+<details class="abstract-toggle"><summary>Abstract</summary><p>I evaluate the ecological validity of the common in-group theory on affective polarization. Cultivating partisans' shared identities has proven to reduce out-party animosity. However, most of this evidence comes from experimental settings with known limitations. Instead, I test the theory in everyday settings, through the impact of banal signals of common identity: I exploit the regular occurrence of national football games as a form of common in-group priming. I observe these events in England where football is both extremely popular and relevant for national identity. For data, I search for overlaps between the timing of voter survey data collections and international football competitions. I estimate the generalized effect of 37 games on the out-party attitudes of partisans in a multi-event regression discontinuity design (N=129,639). I show that the games are associated with a weak and short-lived decrease in out-party animosity. The results contribute to the policy discussion about the scalability of affective polarization interventions to the society.</p></details>
 </li>
 
 </ul>
